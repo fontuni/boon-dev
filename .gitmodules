@@ -1,0 +1,3 @@
+[submodule "boon"]
+	path = boon
+	url = git@github.com:sungsit/boon.git
