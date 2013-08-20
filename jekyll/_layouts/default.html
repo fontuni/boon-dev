@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="th">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="description" content="บุญ คือ ชุดตัวอักษรตระกูลหนึ่ง (font family) ที่มุ่งแสดงผลการจัดเรียงตัวอักษรไทยให้ถูกต้องในเว็บบราวเซอร์">
+    <meta name="keywords" content="Font,Thai,Typography">
+    <meta name="author" content="Sungsit Sawaiwan">
+    <meta name="viewport" content="width=device-width">
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+    <link rel="stylesheet" href="css/customized-bootstrap.css">
+    <link rel="stylesheet" href="css/boon.css">
+  </head>
+
+  <body class="boon">
+
+    <!--[if lt IE 9]>
+    
+    <div class="browsehappy">
+      <p><strong>บุญฟอนต์</strong> ไม่รองรับบราวเซอร์ <strong>รุ่นเก่า</strong> ที่คุณใช้งานอยู่ โปรด <a href="http://browsehappy.com/">อัพเกรดบราวเซอร์ของคุณ</a> เพื่อประสบการณ์ที่ดีกว่าในการท่องเว็บ.</p>
+    </div>
+    
+    <![endif]-->
+
+    <h1 id="title">{{ page.title }}</h1>
+
+    <hr>
+
+    {{ content }}
+
+    {% include scripts.html %}
+
+  </body>
+</html>

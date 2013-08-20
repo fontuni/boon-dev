@@ -16,15 +16,15 @@ woffMinor: 0
 LayerCount: 5
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
-Layer: 2 0 "Book"  1
-Layer: 3 0 "Bold"  1
-Layer: 4 0 "Black"  1
+Layer: 2 0 "400"  1
+Layer: 3 0 "700"  1
+Layer: 4 0 "900"  1
 FSType: 8
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1369324892
-ModificationTime: 1376552580
+ModificationTime: 1376983386
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -286,7 +286,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 40 10 6
+WinInfo: 90 9 5
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 349525 174762 116508 0 1048576 116508 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144

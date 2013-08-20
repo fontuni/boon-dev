@@ -3,8 +3,8 @@ StartChar: J
 Encoding: 74 74 119
 Width: 630
 VWidth: 0
-Flags: HW
-HStem: -18 100<221.15 378.85>
+Flags: W
+HStem: -18 100<221.15 378.85> 830 20G<440 550>
 VStem: 50 110<150.985 252> 440 110<150.985 850>
 LayerCount: 5
 Fore

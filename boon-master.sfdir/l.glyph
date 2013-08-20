@@ -17,11 +17,11 @@ SplineSet
 EndSplineSet
 Layer: 2
 SplineSet
-80 940 m 1
- 180 940 l 1
- 180 0 l 1
- 80 0 l 1
- 80 940 l 1
+100 900 m 1
+ 200 900 l 1
+ 200 0 l 1
+ 100 0 l 1
+ 100 900 l 1
 EndSplineSet
 Layer: 3
 SplineSet

@@ -9,4 +9,6 @@ VStem: -450 74<746.234 843.766> -256 76<745.821 844.179>
 LayerCount: 5
 Fore
 Refer: 23 3661 N 1 0 0 1 -120 0 2
+Layer: 2
+Refer: 23 3661 N 1 0 0 1 -120 0 2
 EndChar

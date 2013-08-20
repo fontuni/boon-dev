@@ -3,7 +3,7 @@ StartChar: x
 Encoding: 120 120 104
 Width: 670
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 21G<30 165.353 504.647 640> 580 20G<60 195.347 474.653 610>
 LayerCount: 5
 Fore
@@ -24,19 +24,19 @@ SplineSet
 EndSplineSet
 Layer: 2
 SplineSet
-210 335 m 1
- 30 620 l 5
- 140 620 l 5
- 275 400 l 1
- 410 620 l 1
- 520 620 l 1
- 340 335 l 1
- 550 0 l 1
- 435 0 l 1
- 275 270 l 1
- 115 0 l 1
- 0 0 l 1
- 210 335 l 1
+60 600 m 1
+ 180 600 l 1
+ 335 398 l 1
+ 490 600 l 1
+ 610 600 l 1
+ 395 320 l 1
+ 640 0 l 1
+ 520 0 l 1
+ 335 241 l 1
+ 150 0 l 1
+ 30 0 l 1
+ 275 320 l 1
+ 60 600 l 1
 EndSplineSet
 Layer: 3
 SplineSet

@@ -11,7 +11,7 @@ Fore
 SplineSet
 -195 1180 m 1
  -115 1180 l 1
- -115 950 l 5
+ -115 950 l 1
  -195 990 l 1
  -195 1180 l 1
 EndSplineSet

@@ -2,7 +2,7 @@
 StartChar: zero
 Encoding: 48 48 173
 Width: 640
-Flags: HW
+Flags: W
 HStem: -18 100<226.819 393.181> 778 100<226.819 393.181>
 VStem: 50 110<159.183 700.817> 460 110<159.183 700.817>
 LayerCount: 5
