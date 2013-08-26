@@ -1,0 +1,13 @@
+
+StartChar: dotbelowcomb
+Encoding: 803 803 321
+Width: 0
+VWidth: 0
+Flags: W
+HStem: -240 140<-364.125 -255.875>
+VStem: -380 140<-224.125 -115.875>
+AnchorPoint: "diac_bottom" -310 0 mark 0
+LayerCount: 3
+Fore
+Refer: 262 775 S 1 0 0 1 0 -1100 2
+EndChar

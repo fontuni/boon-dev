@@ -1,0 +1,11 @@
+
+StartChar: uni2084
+Encoding: 8324 8324 1006
+Width: 350
+Flags: W
+HStem: -180 10.5<210 260> -105 45<90 210 260 300> 210 10<203.928 260>
+VStem: 210 50<-180 -105 -60 135>
+LayerCount: 3
+Fore
+Refer: 176 52 S 0.5 0 0 0.5 10 -180 2
+EndChar

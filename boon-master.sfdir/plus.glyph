@@ -1,45 +1,30 @@
 
 StartChar: plus
-Encoding: 43 43 171
-Width: 640
+Encoding: 43 43 170
+Width: 560
 VWidth: 0
-Flags: HW
-HStem: 280 90<60 260 360 560>
-VStem: 260 100<75 280 370 575>
-LayerCount: 5
+Flags: W
+HStem: 285 70<80 245 315 480>
+VStem: 245 70<120 285 355 520>
+LayerCount: 3
 Fore
 SplineSet
-260 575 m 1
- 360 575 l 1
- 360 370 l 1
- 560 370 l 1
- 560 280 l 1
- 360 280 l 1
- 360 75 l 1
- 260 75 l 1
- 260 280 l 1
- 60 280 l 1
- 60 370 l 1
- 260 370 l 1
- 260 575 l 1
+315 285 m 1
+ 315 120 l 5
+ 245 120 l 5
+ 245 285 l 1
+ 80 285 l 1
+ 80 355 l 1
+ 245 355 l 1
+ 245 520 l 1
+ 315 520 l 1
+ 315 355 l 1
+ 480 355 l 1
+ 480 285 l 1
+ 315 285 l 1
 EndSplineSet
+Validated: 1
 Layer: 2
-SplineSet
-260 575 m 1
- 360 575 l 1
- 360 370 l 1
- 560 370 l 1
- 560 280 l 1
- 360 280 l 1
- 360 75 l 1
- 260 75 l 1
- 260 280 l 1
- 60 280 l 1
- 60 370 l 1
- 260 370 l 1
- 260 575 l 1
-EndSplineSet
-Layer: 3
 SplineSet
 230 575 m 1
  390 575 l 1

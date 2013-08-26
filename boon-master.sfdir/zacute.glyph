@@ -1,0 +1,12 @@
+
+StartChar: zacute
+Encoding: 378 378 490
+Width: 580
+VWidth: 0
+HStem: 0 100<170 540> 510 90<60 410> 700 180
+VStem: 230 220
+LayerCount: 3
+Fore
+Refer: 309 769 N 1 0 0 1 690 -160 2
+Refer: 148 122 N 1 0 0 1 0 0 3
+EndChar

@@ -1,0 +1,13 @@
+
+StartChar: uni0329
+Encoding: 809 809 444
+Width: 0
+VWidth: 0
+Flags: W
+HStem: -260 160<-350 -270>
+VStem: -350 80<-260 -100>
+AnchorPoint: "diac_bottom" -310 0 mark 0
+LayerCount: 3
+Fore
+Refer: 432 781 S 1 0 0 1 0 -1120 2
+EndChar

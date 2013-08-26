@@ -1,16 +1,24 @@
 
 StartChar: quoteright
-Encoding: 8217 8217 199
-Width: 300
+Encoding: 8217 8217 198
+Width: 270
 VWidth: 0
-Flags: HW
-HStem: 650 310
-VStem: 140 90<753.909 807>
-LayerCount: 5
+Flags: W
+HStem: 680 120<80.0195 133.808>
+VStem: 70 130<691.778 782.197>
+LayerCount: 3
 Fore
-Refer: 200 700 N 1 0 0 1 0 0 2
+SplineSet
+130 680 m 0
+ 96 680 70 706 70 740 c 0
+ 70 774 96 800 130 800 c 0
+ 171 800 200 763 200 715 c 0
+ 200 667 177 608 120 560 c 5
+ 70 560 l 5
+ 111 600 132 640 135 680 c 1
+ 133 680 132 680 130 680 c 0
+EndSplineSet
+Validated: 1
 Layer: 2
-Refer: 200 700 N 1 0 0 1 0 0 2
-Layer: 3
-Refer: 200 700 N 1 0 0 1 0 0 2
+Refer: 199 700 N 1 0 0 1 0 0 2
 EndChar

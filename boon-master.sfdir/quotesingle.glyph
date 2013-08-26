@@ -1,33 +1,21 @@
 
 StartChar: quotesingle
-Encoding: 39 39 168
-Width: 240
+Encoding: 39 39 167
+Width: 310
 VWidth: 0
 Flags: W
-HStem: 680 280<70 150>
-VStem: 60 100<699.2 960>
-LayerCount: 5
+HStem: 560 240<120 190>
+VStem: 120 70<560 660.8>
+LayerCount: 3
 Fore
 SplineSet
-60 960 m 1
- 160 960 l 1
- 160 800 l 1
- 150 680 l 1
- 70 680 l 1
- 60 800 l 1
- 60 960 l 1
+100 800 m 1
+ 210 800 l 1
+ 190 560 l 5
+ 120 560 l 1
+ 100 800 l 1
 EndSplineSet
 Layer: 2
-SplineSet
-60 960 m 1
- 160 960 l 1
- 160 800 l 1
- 150 680 l 1
- 70 680 l 1
- 60 800 l 1
- 60 960 l 1
-EndSplineSet
-Layer: 3
 SplineSet
 40 960 m 1xc0
  180 960 l 1

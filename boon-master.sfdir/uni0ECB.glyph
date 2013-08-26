@@ -1,12 +1,12 @@
 
 StartChar: uni0ECB
-Encoding: 3787 3787 273
+Encoding: 3787 3787 272
 Width: 0
 VWidth: 0
 Flags: W
 HStem: 1050 60<-440 -345 -265 -170>
 VStem: -345 80<970 1050 1110 1190>
-LayerCount: 5
+LayerCount: 3
 Fore
 SplineSet
 -345 1190 m 1
@@ -23,20 +23,5 @@ SplineSet
  -345 1110 l 1
  -345 1190 l 1
 EndSplineSet
-Layer: 2
-SplineSet
--345 1190 m 1
- -265 1190 l 1
- -265 1110 l 1
- -170 1110 l 1
- -170 1050 l 1
- -265 1050 l 1
- -265 970 l 1
- -345 970 l 1
- -345 1050 l 1
- -440 1050 l 1
- -440 1110 l 1
- -345 1110 l 1
- -345 1190 l 1
-EndSplineSet
+Validated: 1
 EndChar

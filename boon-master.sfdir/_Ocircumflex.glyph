@@ -1,0 +1,12 @@
+
+StartChar: Ocircumflex
+Encoding: 212 212 396
+Width: 780
+VWidth: 0
+HStem: -20 90<279.305 500.695> 735 85<277.083 502.917> 860 180
+VStem: 60 100<182.887 622.396> 620 100<182.887 622.396>
+LayerCount: 3
+Fore
+Refer: 310 770 N 1 0 0 1 710 0 2
+Refer: 107 79 N 1 0 0 1 0 0 3
+EndChar

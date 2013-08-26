@@ -1,0 +1,21 @@
+
+StartChar: uni0302
+Encoding: 770 770 310
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 860 180
+AnchorPoint: "diac_top" -320 860 mark 0
+LayerCount: 3
+Fore
+SplineSet
+-320 984 m 5
+ -420 860 l 5
+ -520 860 l 5
+ -365 1040 l 5
+ -275 1040 l 5
+ -120 860 l 5
+ -220 860 l 5
+ -320 984 l 5
+EndSplineSet
+EndChar

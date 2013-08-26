@@ -1,0 +1,12 @@
+
+StartChar: uni1E6D
+Encoding: 7789 7789 359
+Width: 400
+VWidth: 0
+HStem: -240 140<147.875 256.125> 0 21<150 250> 510 90<20 150 250 380>
+VStem: 132 140<-224.125 -115.875> 150 100<0 510 600 840>
+LayerCount: 3
+Fore
+Refer: 321 803 N 1 0 0 1 512 0 2
+Refer: 155 116 N 1 0 0 1 0 0 3
+EndChar

@@ -1,0 +1,25 @@
+
+StartChar: uni1EFA
+Encoding: 7930 7930 964
+Width: 760
+VWidth: 0
+Flags: W
+HStem: 0 90<170 270 370 750> 780 20G<70 170 270 370>
+VStem: 70 100<90 800> 270 100<90 800>
+LayerCount: 3
+Fore
+SplineSet
+70 0 m 5
+ 70 90 l 1
+ 70 800 l 1
+ 170 800 l 1
+ 170 90 l 1
+ 270 90 l 1
+ 270 800 l 1
+ 370 800 l 1
+ 370 90 l 1
+ 750 90 l 1
+ 750 0 l 5
+ 70 0 l 5
+EndSplineSet
+EndChar

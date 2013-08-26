@@ -1,0 +1,13 @@
+
+StartChar: uni0191
+Encoding: 401 401 556
+Width: 610
+VWidth: 0
+Flags: W
+HStem: -290 90<-40 52.98> -20 20<90 190> 0 21<90 190> 355 90<190 550> 710 90<190 580>
+VStem: 90 100<-165.608 0 0 355 445 710>
+LayerCount: 3
+Fore
+Refer: 972 801 N 1 0 0 1 390 0 2
+Refer: 118 70 N 1 0 0 1 20 0 2
+EndChar

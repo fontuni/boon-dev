@@ -1,0 +1,12 @@
+
+StartChar: Zdotaccent
+Encoding: 379 379 853
+Width: 680
+VWidth: 0
+HStem: 0 100<170 650> 710 90<60 500> 860 140<295.875 404.125>
+VStem: 280 140<875.875 984.125>
+LayerCount: 3
+Fore
+Refer: 262 775 N 1 0 0 1 660 0 2
+Refer: 130 90 N 1 0 0 1 0 0 3
+EndChar

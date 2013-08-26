@@ -1,0 +1,12 @@
+
+StartChar: Lacute
+Encoding: 313 313 572
+Width: 560
+VWidth: 0
+HStem: 0 90<170 550> 780 20<70 170> 860 180
+VStem: 60 220 70 100<90 800>
+LayerCount: 3
+Fore
+Refer: 309 769 N 1 0 0 1 520 0 2
+Refer: 117 76 N 1 0 0 1 0 0 3
+EndChar

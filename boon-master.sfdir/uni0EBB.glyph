@@ -1,14 +1,13 @@
 
 StartChar: uni0EBB
-Encoding: 3771 3771 243
+Encoding: 3771 3771 242
 Width: 0
 VWidth: 0
 Flags: W
 HStem: 650 55<-503.5 -436.5> 815 75<-405.565 -254.306>
 VStem: -560 55<706.5 772.507> -435 55<706.5 773.877> -200 100<690 764.513>
-LayerCount: 5
+LayerCount: 3
 Fore
-Refer: 242 3761 N 1 0 0 -1 0 1570 2
-Layer: 2
-Refer: 242 3761 N 1 0 0 -1 0 1570 2
+Refer: 241 3761 N 1 0 0 -1 0 1570 2
+Validated: 25
 EndChar

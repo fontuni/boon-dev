@@ -1,0 +1,12 @@
+
+StartChar: ygrave
+Encoding: 7923 7923 863
+Width: 620
+VWidth: 0
+HStem: -290 90<80 182.938> 580 20<20 137.66 482.34 600> 700 180
+VStem: 160 220
+LayerCount: 3
+Fore
+Refer: 308 768 N 1 0 0 1 620 -160 2
+Refer: 149 121 N 1 0 0 1 0 0 3
+EndChar

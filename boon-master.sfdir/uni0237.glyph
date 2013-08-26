@@ -1,8 +1,21 @@
 
 StartChar: uni0237
-Encoding: 567 567 262
-Width: 513
+Encoding: 567 567 261
+Width: 340
 VWidth: 0
 Flags: W
-LayerCount: 5
+HStem: -290 90<10 102.568> 580 20G<140 240>
+VStem: 140 100<-165.608 600>
+AnchorPoint: "diac_top" 190 700 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+240 -100 m 2
+ 240 -217 157 -290 10 -290 c 1
+ 10 -200 l 1
+ 71 -200 140 -178 140 -100 c 2
+ 140 600 l 1
+ 240 600 l 1
+ 240 -100 l 2
+EndSplineSet
 EndChar

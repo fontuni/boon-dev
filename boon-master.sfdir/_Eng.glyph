@@ -1,0 +1,13 @@
+
+StartChar: Eng
+Encoding: 330 330 989
+Width: 740
+VWidth: 0
+Flags: W
+HStem: -290 90<440 532.98> -20 20<570 670> 0 21<70 170 557.302 670> 780 20<70 182.698 570 670>
+VStem: 70 100<0 630> 570 100<-165.608 0 170 800>
+LayerCount: 3
+Fore
+Refer: 972 801 S 1 0 0 1 870 0 2
+Refer: 121 78 N 1 0 0 1 0 0 2
+EndChar

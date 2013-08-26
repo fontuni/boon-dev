@@ -1,8 +1,8 @@
 
 StartChar: uni0ED9
-Encoding: 3801 3801 302
+Encoding: 3801 3801 301
 Width: 179
 VWidth: 0
-Flags: HW
-LayerCount: 5
+Flags: W
+LayerCount: 3
 EndChar

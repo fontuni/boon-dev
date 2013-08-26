@@ -1,0 +1,12 @@
+
+StartChar: Lcommaaccent
+Encoding: 315 315 552
+Width: 560
+VWidth: 0
+HStem: -220 120<280.02 334> 0 90<170 550> 780 20<70 170>
+VStem: 70 100<90 800> 270 130<-208.176 -116.255>
+LayerCount: 3
+Fore
+Refer: 441 806 N 1 0 0 1 640 0 2
+Refer: 117 76 N 1 0 0 1 0 0 3
+EndChar

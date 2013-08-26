@@ -1,8 +1,8 @@
 
 StartChar: uni0ED8
-Encoding: 3800 3800 301
+Encoding: 3800 3800 300
 Width: 179
 VWidth: 0
-Flags: HW
-LayerCount: 5
+Flags: W
+LayerCount: 3
 EndChar

@@ -1,33 +1,16 @@
 
 StartChar: quoteleft
-Encoding: 8216 8216 198
-Width: 300
+Encoding: 8216 8216 197
+Width: 270
 VWidth: 0
-Flags: HW
-HStem: 650 310
-VStem: 60 90<803 856.091>
-LayerCount: 5
+Flags: W
+HStem: 560 120<136.192 189.98>
+VStem: 70 130<577.803 668.222>
+LayerCount: 3
 Fore
-SplineSet
-140 650 m 0
- 90 650 60 695 60 740 c 0
- 60 854 128 933 170 960 c 1
- 240 960 l 1
- 199 924 150 857 150 803 c 1
- 186 803 220 773 220 730 c 0
- 220 685 185 650 140 650 c 0
-EndSplineSet
+Refer: 198 8217 N -1 -0 0 -1 270 1360 2
+Validated: 1
 Layer: 2
-SplineSet
-140 650 m 0
- 90 650 60 695 60 740 c 0
- 60 854 128 933 170 960 c 1
- 240 960 l 1
- 199 924 150 857 150 803 c 1
- 186 803 220 773 220 730 c 0
- 220 685 185 650 140 650 c 0
-EndSplineSet
-Layer: 3
 SplineSet
 130 650 m 0
  74 650 30 694 30 750 c 0

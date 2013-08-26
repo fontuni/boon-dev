@@ -1,0 +1,25 @@
+
+StartChar: multiply
+Encoding: 215 215 395
+Width: 560
+VWidth: 0
+Flags: W
+LayerCount: 3
+Fore
+SplineSet
+131 120 m 1
+ 80 169 l 1
+ 230 320 l 1
+ 80 471 l 1
+ 131 520 l 1
+ 280 370 l 1
+ 429 520 l 1
+ 480 471 l 1
+ 330 320 l 1
+ 480 169 l 1
+ 429 120 l 1
+ 280 270 l 1
+ 131 120 l 1
+EndSplineSet
+Validated: 1
+EndChar

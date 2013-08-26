@@ -1,12 +1,12 @@
 
 StartChar: uni0EC8
-Encoding: 3784 3784 268
+Encoding: 3784 3784 267
 Width: 0
 VWidth: 0
 Flags: W
 HStem: 970 220<-340 -250>
 VStem: -340 90<970 1190>
-LayerCount: 5
+LayerCount: 3
 Fore
 SplineSet
 -340 1190 m 5
@@ -15,12 +15,5 @@ SplineSet
  -340 970 l 5
  -340 1190 l 5
 EndSplineSet
-Layer: 2
-SplineSet
--340 1190 m 5
- -250 1190 l 5
- -250 970 l 5
- -340 970 l 5
- -340 1190 l 5
-EndSplineSet
+Validated: 1
 EndChar

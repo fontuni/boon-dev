@@ -1,8 +1,8 @@
 
 StartChar: uni0EDD
-Encoding: 3805 3805 304
+Encoding: 3805 3805 303
 Width: 179
 VWidth: 0
-Flags: HW
-LayerCount: 5
+Flags: W
+LayerCount: 3
 EndChar

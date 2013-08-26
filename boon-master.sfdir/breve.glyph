@@ -1,0 +1,20 @@
+
+StartChar: breve
+Encoding: 728 728 1014
+Width: 560
+VWidth: 0
+Flags: W
+HStem: 620 75<205.361 354.639> 780 20G<80 170 390 480>
+VStem: 80 90<731.797 800> 390 90<731.797 800>
+LayerCount: 3
+Fore
+SplineSet
+80 800 m 5
+ 170 800 l 5
+ 170 749 205 695 280 695 c 4
+ 355 695 390 749 390 800 c 5
+ 480 800 l 5
+ 480 705 402 620 280 620 c 4
+ 158 620 80 705 80 800 c 5
+EndSplineSet
+EndChar

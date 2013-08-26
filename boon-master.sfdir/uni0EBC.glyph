@@ -1,8 +1,8 @@
 
 StartChar: uni0EBC
-Encoding: 3772 3772 286
+Encoding: 3772 3772 285
 Width: 179
 VWidth: 0
-Flags: HW
-LayerCount: 5
+Flags: W
+LayerCount: 3
 EndChar

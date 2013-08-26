@@ -1,0 +1,12 @@
+
+StartChar: uni01CF
+Encoding: 463 463 519
+Width: 300
+VWidth: 0
+HStem: 0 21<100 200> 780 20<100 200> 860 180
+VStem: 100 100<0 800>
+LayerCount: 3
+Fore
+Refer: 431 780 N 1 0 0 1 470 0 2
+Refer: 108 73 N 1 0 0 1 0 0 3
+EndChar

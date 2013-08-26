@@ -1,0 +1,12 @@
+
+StartChar: revlogicalnot
+Encoding: 8976 8976 1001
+Width: 570
+VWidth: 0
+Flags: W
+HStem: 600 70<150 540>
+VStem: 60 90<480 600>
+LayerCount: 3
+Fore
+Refer: 996 172 S -1 0 0 1 570 0 2
+EndChar

@@ -1,43 +1,16 @@
 
 StartChar: exclamdown
-Encoding: 161 161 210
-Width: 300
+Encoding: 161 161 209
+Width: 310
 VWidth: 0
-Flags: HW
-HStem: 460 160<80.4964 199.504>
-VStem: 60 160<480.496 599.504> 80 120<-340 327.2>
-LayerCount: 5
+Flags: W
+HStem: -270 20<105 205> 480 150<97.6641 211.813>
+VStem: 80 150<498.094 611.906> 105 100<-270 361.2>
+LayerCount: 3
 Fore
-SplineSet
-220 540 m 0xc0
- 220 495 185 460 140 460 c 0
- 95 460 60 495 60 540 c 0
- 60 585 95 620 140 620 c 0
- 185 620 220 585 220 540 c 0xc0
-80 -340 m 1xa0
- 80 260 l 1
- 95 380 l 1
- 185 380 l 1
- 200 260 l 1
- 200 -340 l 1
- 80 -340 l 1xa0
-EndSplineSet
+Refer: 163 33 N 1 0 0 -1 0 630 2
+Validated: 25
 Layer: 2
-SplineSet
-220 540 m 0xc0
- 220 495 185 460 140 460 c 0
- 95 460 60 495 60 540 c 0
- 60 585 95 620 140 620 c 0
- 185 620 220 585 220 540 c 0xc0
-80 -340 m 1xa0
- 80 260 l 1
- 95 380 l 1
- 185 380 l 1
- 200 260 l 1
- 200 -340 l 1
- 80 -340 l 1xa0
-EndSplineSet
-Layer: 3
 SplineSet
 50 -342 m 1xa0
  50 228 l 1

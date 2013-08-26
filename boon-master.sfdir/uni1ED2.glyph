@@ -1,0 +1,13 @@
+
+StartChar: uni1ED2
+Encoding: 7890 7890 868
+Width: 780
+VWidth: 0
+HStem: -20 90<279.305 500.695> 735 85<277.083 502.917> 860 180 1088 180
+VStem: 60 100<182.887 622.396> 280 220 620 100<182.887 622.396>
+CounterMasks: 1 0e
+LayerCount: 3
+Fore
+Refer: 308 768 N 1 0 0 1 740 228 2
+Refer: 396 212 N 1 0 0 1 0 0 3
+EndChar

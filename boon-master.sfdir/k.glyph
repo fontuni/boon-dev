@@ -1,45 +1,33 @@
 
 StartChar: k
 Encoding: 107 107 156
-Width: 580
+Width: 590
 VWidth: 0
 Flags: W
-HStem: 0 21G<60 160 441.769 560> 600 20G<387.182 520>
-VStem: 60 100<0 230 345 960>
-LayerCount: 5
+HStem: 0 21G<80 180 436.286 570> 280 90<180 255> 580 20G<405.652 530> 880 20G<80 180>
+VStem: 80 100<0 280 370 900>
+AnchorPoint: "diac_bottom" 300 0 basechar 0
+AnchorPoint: "diac_top" 400 700 basechar 0
+LayerCount: 3
 Fore
 SplineSet
-60 960 m 1
- 160 960 l 1
- 160 345 l 1
- 405 620 l 1
- 520 620 l 1
- 300 380 l 1
- 560 0 l 1
- 455 0 l 1
- 240 325 l 1
- 160 230 l 1
- 160 0 l 1
- 60 0 l 1
- 60 960 l 1
+420 600 m 1
+ 530 600 l 1
+ 335 335 l 1
+ 570 0 l 1
+ 450 0 l 1
+ 258 280 l 1
+ 180 280 l 1
+ 180 0 l 1
+ 80 0 l 1
+ 80 900 l 1
+ 180 900 l 1
+ 180 370 l 1
+ 255 370 l 1
+ 420 600 l 1
 EndSplineSet
+Validated: 1
 Layer: 2
-SplineSet
-60 960 m 1
- 160 960 l 1
- 160 345 l 1
- 405 620 l 1
- 520 620 l 1
- 300 380 l 1
- 560 0 l 1
- 455 0 l 1
- 240 325 l 1
- 160 230 l 1
- 160 0 l 1
- 60 0 l 1
- 60 960 l 1
-EndSplineSet
-Layer: 3
 SplineSet
 50 960 m 1
  210 960 l 1
