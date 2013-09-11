@@ -17,4 +17,8 @@ Thumbs.db
 *~
 
 # temp ignore
-boon-prototype-old.svg
+boon-prototype-old*.svg
+boon-prototype-thai.svg
+boon-prototype-latin.svg
+boon-dev-*.sfd
+boon-master-old.sfdir
