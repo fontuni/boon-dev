@@ -1,0 +1,58 @@
+
+StartChar: guilsinglleft
+Encoding: 8249 8249 214
+Width: 390
+Flags: W
+VStem: 80 240
+LayerCount: 6
+Fore
+SplineSet
+170 320 m 5
+ 320 90 l 5
+ 250 90 l 5
+ 80 320 l 5
+ 250 550 l 5
+ 320 550 l 5
+ 170 320 l 5
+EndSplineSet
+Layer: 2
+SplineSet
+200 320 m 5
+ 350 90 l 5
+ 230 90 l 1
+ 60 320 l 1
+ 230 550 l 1
+ 350 550 l 5
+ 200 320 l 5
+EndSplineSet
+Layer: 3
+SplineSet
+170 320 m 5
+ 320 90 l 5
+ 250 90 l 5
+ 80 320 l 5
+ 250 550 l 5
+ 320 550 l 5
+ 170 320 l 5
+EndSplineSet
+Layer: 4
+SplineSet
+268.019 320 m 1
+ 369.13 90 l 1
+ 249.13 90 l 1
+ 128.019 320 l 1
+ 346.906 550 l 1
+ 466.906 550 l 1
+ 268.019 320 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+238.019 320 m 1
+ 339.13 90 l 1
+ 269.13 90 l 1
+ 148.019 320 l 1
+ 366.906 550 l 1
+ 436.906 550 l 1
+ 238.019 320 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,80 @@
+
+StartChar: z
+Encoding: 122 122 148
+Width: 620
+VWidth: 0
+Flags: W
+HStem: 0 100<190 560> 510 90<80 430>
+AnchorPoint: "cedilla" 317.004 40 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+80 600 m 5
+ 550 600 l 5
+ 550 510 l 5
+ 190 100 l 5
+ 560 100 l 5
+ 560 0 l 5
+ 60 0 l 5
+ 60 100 l 5
+ 430 510 l 5
+ 80 510 l 5
+ 80 600 l 5
+EndSplineSet
+Layer: 2
+SplineSet
+50 600 m 5
+ 580 600 l 5
+ 580 480 l 5
+ 210 130 l 5
+ 590 130 l 5
+ 590 0 l 5
+ 30 0 l 5
+ 30 130 l 5
+ 410 480 l 5
+ 50 480 l 5
+ 50 600 l 5
+EndSplineSet
+Layer: 3
+SplineSet
+80 600 m 5
+ 550 600 l 5
+ 550 510 l 5
+ 190 100 l 5
+ 560 100 l 5
+ 560 0 l 5
+ 60 0 l 5
+ 60 100 l 5
+ 430 510 l 5
+ 80 510 l 5
+ 80 600 l 5
+EndSplineSet
+Layer: 4
+SplineSet
+177.534 600 m 1
+ 707.534 600 l 1
+ 682.027 480 l 1
+ 237.633 130 l 1
+ 617.633 130 l 1
+ 590 0 l 1
+ 30 0 l 1
+ 57.6328 130 l 1
+ 512.027 480 l 1
+ 152.027 480 l 1
+ 177.534 600 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+207.534 600 m 1
+ 677.534 600 l 1
+ 658.404 510 l 1
+ 211.256 100 l 1
+ 581.256 100 l 1
+ 560 0 l 1
+ 60 0 l 1
+ 81.2559 100 l 1
+ 538.404 510 l 1
+ 188.404 510 l 1
+ 207.534 600 l 1
+EndSplineSet
+EndChar

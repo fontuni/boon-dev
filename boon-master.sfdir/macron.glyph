@@ -1,0 +1,49 @@
+
+StartChar: macron
+Encoding: 175 175 252
+Width: 560
+VWidth: 0
+Flags: W
+HStem: 740 60<80 480>
+LayerCount: 6
+Fore
+SplineSet
+80 800 m 1
+ 480 800 l 1
+ 480 740 l 5
+ 80 740 l 5
+ 80 800 l 1
+EndSplineSet
+Layer: 2
+SplineSet
+50 800 m 5
+ 510 800 l 5
+ 510 700 l 5
+ 50 700 l 5
+ 50 800 l 5
+EndSplineSet
+Layer: 3
+SplineSet
+80 800 m 1
+ 480 800 l 1
+ 480 740 l 5
+ 80 740 l 5
+ 80 800 l 1
+EndSplineSet
+Layer: 4
+SplineSet
+220.045 800 m 1
+ 680.045 800 l 1
+ 658.79 700 l 1
+ 198.79 700 l 1
+ 220.045 800 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+250.045 800 m 1
+ 650.045 800 l 1
+ 637.292 740 l 1
+ 237.292 740 l 1
+ 250.045 800 l 1
+EndSplineSet
+EndChar

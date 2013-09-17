@@ -1,0 +1,99 @@
+
+StartChar: A
+Encoding: 65 65 128
+Width: 800
+VWidth: 0
+Flags: W
+HStem: 0 21G<30 147.758 652.242 770> 165 90<239 561> 780 20G<342 458>
+AnchorPoint: "hook_above" 761.346 850 basechar 0
+AnchorPoint: "ring_above" 723.086 760 basechar 0
+AnchorPoint: "diac_bottom" 378.744 -50 basechar 0
+AnchorPoint: "diac_top" 761.346 850 basechar 0
+AnchorPoint: "ogonek" 707.004 40 basechar 0
+AnchorPoint: "cedilla" 707.004 40 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+770 0 m 1
+ 660 0 l 1
+ 596 165 l 1
+ 204 165 l 1
+ 140 0 l 1
+ 30 0 l 1
+ 350 800 l 1
+ 450 800 l 1
+ 770 0 l 1
+561 255 m 1
+ 400 671 l 1
+ 239 255 l 1
+ 561 255 l 1
+EndSplineSet
+Layer: 2
+SplineSet
+800 0 m 5
+ 625 0 l 5
+ 569 150 l 5
+ 231 150 l 5
+ 175 0 l 5
+ 0 0 l 5
+ 320 800 l 5
+ 325 800 l 5
+ 475 800 l 5
+ 480 800 l 5
+ 800 0 l 5
+524 270 m 5
+ 400 600 l 5
+ 276 270 l 5
+ 524 270 l 5
+EndSplineSet
+Layer: 3
+SplineSet
+770 0 m 1
+ 660 0 l 1
+ 596 165 l 1
+ 204 165 l 1
+ 140 0 l 1
+ 30 0 l 1
+ 350 800 l 1
+ 450 800 l 1
+ 770 0 l 1
+561 255 m 1
+ 400 671 l 1
+ 239 255 l 1
+ 561 255 l 1
+EndSplineSet
+Layer: 4
+SplineSet
+581.391 270 m 1
+ 527.534 600 l 1
+ 333.391 270 l 1
+ 581.391 270 l 1
+800 0 m 1
+ 625 0 l 1
+ 600.884 150 l 1
+ 262.884 150 l 1
+ 175 0 l 1
+ 0 0 l 1
+ 490.045 800 l 1
+ 495.045 800 l 1
+ 645.045 800 l 1
+ 650.045 800 l 1
+ 800 0 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+615.202 255 m 1
+ 542.625 671 l 1
+ 293.202 255 l 1
+ 615.202 255 l 1
+770 0 m 1
+ 660 0 l 1
+ 631.072 165 l 1
+ 239.072 165 l 1
+ 140 0 l 1
+ 30 0 l 1
+ 520.045 800 l 1
+ 620.045 800 l 1
+ 770 0 l 1
+EndSplineSet
+EndChar

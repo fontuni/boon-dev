@@ -1,0 +1,51 @@
+
+StartChar: gravecomb
+Encoding: 768 768 312
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 890 160
+VStem: -590 300
+AnchorPoint: "diac_top" -28.6543 850 mark 0
+LayerCount: 6
+Fore
+SplineSet
+-590 1050 m 5
+ -460 1050 l 5
+ -290 890 l 5
+ -355 890 l 5
+ -590 1050 l 5
+EndSplineSet
+Layer: 2
+SplineSet
+-620 1060 m 5
+ -430 1060 l 5
+ -260 880 l 5
+ -370 880 l 5
+ -620 1060 l 5
+EndSplineSet
+Layer: 3
+SplineSet
+-590 1050 m 5
+ -460 1050 l 5
+ -290 890 l 5
+ -355 890 l 5
+ -590 1050 l 5
+EndSplineSet
+Layer: 4
+SplineSet
+-394.69 1060 m 1
+ -204.69 1060 l 1
+ -72.9502 880 l 1
+ -182.95 880 l 1
+ -394.69 1060 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+-366.815 1050 m 1
+ -236.815 1050 l 1
+ -100.824 890 l 1
+ -165.824 890 l 1
+ -366.815 1050 l 1
+EndSplineSet
+EndChar

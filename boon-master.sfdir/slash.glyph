@@ -1,0 +1,50 @@
+
+StartChar: slash
+Encoding: 47 47 159
+Width: 480
+VWidth: 0
+Flags: W
+HStem: 880 20G<334.815 420>
+VStem: 60 360
+LayerCount: 6
+Fore
+SplineSet
+340 900 m 5
+ 420 900 l 1
+ 140 -180 l 1
+ 60 -180 l 5
+ 340 900 l 5
+EndSplineSet
+Layer: 2
+SplineSet
+320 900 m 5
+ 440 900 l 5
+ 160 -180 l 5
+ 40 -180 l 5
+ 320 900 l 5
+EndSplineSet
+Layer: 3
+SplineSet
+340 900 m 5
+ 420 900 l 1
+ 140 -180 l 1
+ 60 -180 l 5
+ 340 900 l 5
+EndSplineSet
+Layer: 4
+SplineSet
+511.301 900 m 1
+ 631.301 900 l 1
+ 121.74 -180 l 1
+ 1.74023 -180 l 1
+ 511.301 900 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+531.301 900 m 1
+ 611.301 900 l 1
+ 101.74 -180 l 1
+ 21.7402 -180 l 1
+ 531.301 900 l 1
+EndSplineSet
+EndChar

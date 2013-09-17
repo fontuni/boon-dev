@@ -16,6 +16,9 @@ Thumbs.db
 ._*
 *~
 
+#
+.sass-cache
+
 # temp ignore
 boon-prototype-old*.svg
 boon-prototype-thai.svg

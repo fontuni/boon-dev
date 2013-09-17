@@ -2,14 +2,12 @@
 
 ## v1.0
   - Create real italic styles for all weights
-  - Add more Latin supplement
+  - Improve all combining diacritics
+  - Support more European & Vietnam languages
+  - Add Lao glyphs
 
-##  v0.5
-  - Improve glyph spacing
-  - Add HTML/CSS for better OpenType feature test
+##  v0.6
+  - Add 300 (Light) & 500 (Medium) or 600 (Semi-Bold) weights
 
-##  Other font features
-  - Manually create Italic style
-  - Add more weight (Light, Black ?)
-  - More scripts, Laos?
-  - Use XGridFit if possible
+##  Other features
+  - Greek & Cyrillic ?

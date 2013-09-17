@@ -1,0 +1,49 @@
+
+StartChar: hyphen
+Encoding: 45 45 157
+Width: 560
+VWidth: 0
+Flags: W
+HStem: 285 70<80 480>
+LayerCount: 6
+Fore
+SplineSet
+80 355 m 1
+ 480 355 l 1
+ 480 285 l 5
+ 80 285 l 5
+ 80 355 l 1
+EndSplineSet
+Layer: 2
+SplineSet
+50 370 m 5
+ 510 370 l 5
+ 510 270 l 5
+ 50 270 l 5
+ 50 370 l 5
+EndSplineSet
+Layer: 3
+SplineSet
+80 355 m 1
+ 480 355 l 1
+ 480 285 l 5
+ 80 285 l 5
+ 80 355 l 1
+EndSplineSet
+Layer: 4
+SplineSet
+128.646 370 m 1
+ 588.646 370 l 1
+ 567.391 270 l 1
+ 107.391 270 l 1
+ 128.646 370 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+155.458 355 m 1
+ 555.458 355 l 1
+ 540.578 285 l 1
+ 140.578 285 l 1
+ 155.458 355 l 1
+EndSplineSet
+EndChar

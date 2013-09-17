@@ -1,0 +1,33 @@
+
+StartChar: acutecomb
+Encoding: 769 769 311
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 890 160
+VStem: -480 300
+AnchorPoint: "diac_top" 1.3457 850 mark 0
+LayerCount: 6
+Fore
+Refer: 312 768 N -1 0 0 1 -770 0 2
+Layer: 2
+Refer: 312 768 N -1 0 0 1 -770 0 2
+Layer: 3
+Refer: 312 768 N -1 0 0 1 -770 0 2
+Layer: 4
+SplineSet
+75.3096 1060 m 1
+ -114.69 1060 l 1
+ -322.95 880 l 1
+ -212.95 880 l 1
+ 75.3096 1060 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+43.1846 1050 m 1
+ -86.8154 1050 l 1
+ -290.824 890 l 1
+ -225.824 890 l 1
+ 43.1846 1050 l 1
+EndSplineSet
+EndChar

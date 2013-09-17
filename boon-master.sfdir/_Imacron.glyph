@@ -1,0 +1,44 @@
+
+StartChar: Imacron
+Encoding: 298 298 419
+Width: 320
+VWidth: 0
+HStem: 0 21<110 210> 780 20<110 210> 900 60<-40 360>
+VStem: 110 100<0 800>
+LayerCount: 6
+Fore
+Refer: 315 772 N 1 0 0 1 570 0 2
+Refer: 108 73 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 315 772 N 1 0 0 1 570 0 2
+Refer: 108 73 N 1 0 0 1 0 0 3
+Layer: 3
+Refer: 315 772 N 1 0 0 1 570 0 2
+Refer: 108 73 N 1 0 0 1 0 0 3
+Layer: 4
+SplineSet
+136.18 970 m 1
+ 596.18 970 l 1
+ 577.05 880 l 1
+ 117.05 880 l 1
+ 136.18 970 l 1
+250.045 800 m 1
+ 410.045 800 l 1
+ 240 0 l 1
+ 80 0 l 1
+ 250.045 800 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+164.055 960 m 1
+ 564.055 960 l 1
+ 551.301 900 l 1
+ 151.301 900 l 1
+ 164.055 960 l 1
+280.045 800 m 1
+ 380.045 800 l 1
+ 210 0 l 1
+ 110 0 l 1
+ 280.045 800 l 1
+EndSplineSet
+EndChar

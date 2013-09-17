@@ -1,0 +1,82 @@
+
+StartChar: Z
+Encoding: 90 90 130
+Width: 740
+VWidth: 0
+Flags: W
+HStem: 0 100<200 680> 710 90<90 530>
+AnchorPoint: "cedilla" 387.004 40 basechar 0
+AnchorPoint: "diac_bottom" 348.744 -50 basechar 0
+AnchorPoint: "diac_top" 741.346 850 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+90 800 m 1
+ 660 800 l 1
+ 660 710 l 1
+ 200 100 l 1
+ 680 100 l 1
+ 680 0 l 1
+ 60 0 l 1
+ 60 100 l 1
+ 530 710 l 1
+ 90 710 l 1
+ 90 800 l 1
+EndSplineSet
+Layer: 2
+SplineSet
+60 800 m 1
+ 690 800 l 1
+ 690 680 l 1
+ 230 130 l 1
+ 710 130 l 1
+ 710 0 l 1
+ 30 0 l 1
+ 30 130 l 1
+ 500 680 l 1
+ 60 680 l 1
+ 60 800 l 1
+EndSplineSet
+Layer: 3
+SplineSet
+90 800 m 1
+ 660 800 l 1
+ 660 710 l 1
+ 200 100 l 1
+ 680 100 l 1
+ 680 0 l 1
+ 60 0 l 1
+ 60 100 l 1
+ 530 710 l 1
+ 90 710 l 1
+ 90 800 l 1
+EndSplineSet
+Layer: 4
+SplineSet
+230.045 800 m 1
+ 860.045 800 l 1
+ 834.538 680 l 1
+ 257.633 130 l 1
+ 737.633 130 l 1
+ 710 0 l 1
+ 30 0 l 1
+ 57.6328 130 l 1
+ 644.538 680 l 1
+ 204.538 680 l 1
+ 230.045 800 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+260.045 800 m 1
+ 830.045 800 l 1
+ 810.915 710 l 1
+ 221.256 100 l 1
+ 701.256 100 l 1
+ 680 0 l 1
+ 60 0 l 1
+ 81.2559 100 l 1
+ 680.915 710 l 1
+ 240.915 710 l 1
+ 260.045 800 l 1
+EndSplineSet
+EndChar

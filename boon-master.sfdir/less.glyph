@@ -1,0 +1,63 @@
+
+StartChar: less
+Encoding: 60 60 182
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 6
+Fore
+SplineSet
+100 295 m 5
+ 100 345 l 5
+ 500 550 l 5
+ 500 465 l 5
+ 210 320 l 5
+ 500 175 l 5
+ 500 90 l 5
+ 100 295 l 5
+EndSplineSet
+Layer: 2
+SplineSet
+60 270 m 5
+ 60 370 l 5
+ 540 640 l 5
+ 540 500 l 5
+ 210 320 l 5
+ 540 140 l 5
+ 540 0 l 5
+ 60 270 l 5
+EndSplineSet
+Layer: 3
+SplineSet
+100 295 m 5
+ 100 345 l 5
+ 500 550 l 5
+ 500 465 l 5
+ 210 320 l 5
+ 500 175 l 5
+ 500 90 l 5
+ 100 295 l 5
+EndSplineSet
+Layer: 4
+SplineSet
+117.391 270 m 1
+ 138.646 370 l 1
+ 676.036 640 l 1
+ 646.278 500 l 1
+ 278.019 320 l 1
+ 569.758 140 l 1
+ 540 0 l 1
+ 117.391 270 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+162.704 295 m 1
+ 173.332 345 l 1
+ 616.906 550 l 1
+ 598.839 465 l 1
+ 278.019 320 l 1
+ 537.197 175 l 1
+ 519.13 90 l 1
+ 162.704 295 l 1
+EndSplineSet
+EndChar

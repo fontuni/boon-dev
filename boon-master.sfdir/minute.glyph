@@ -1,0 +1,49 @@
+
+StartChar: minute
+Encoding: 8242 8242 871
+Width: 330
+VWidth: 0
+Flags: W
+HStem: 620 220
+LayerCount: 6
+Fore
+SplineSet
+280 840 m 5
+ 160 840 l 5
+ 50 620 l 5
+ 116 620 l 5
+ 280 840 l 5
+EndSplineSet
+Layer: 2
+SplineSet
+300 840 m 5
+ 150 840 l 5
+ 30 620 l 5
+ 126 620 l 5
+ 300 840 l 5
+EndSplineSet
+Layer: 3
+SplineSet
+280 840 m 5
+ 160 840 l 5
+ 50 620 l 5
+ 116 620 l 5
+ 280 840 l 5
+EndSplineSet
+Layer: 4
+SplineSet
+478.548 840 m 1
+ 328.548 840 l 1
+ 161.785 620 l 1
+ 257.785 620 l 1
+ 478.548 840 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+458.548 840 m 1
+ 338.548 840 l 1
+ 181.785 620 l 1
+ 247.785 620 l 1
+ 458.548 840 l 1
+EndSplineSet
+EndChar

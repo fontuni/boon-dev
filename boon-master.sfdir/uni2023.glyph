@@ -1,0 +1,45 @@
+
+StartChar: uni2023
+Encoding: 8227 8227 867
+Width: 410
+VWidth: 0
+Flags: W
+HStem: 180 260
+VStem: 90 230
+LayerCount: 6
+Fore
+SplineSet
+90 440 m 1
+ 320 310 l 1
+ 90 180 l 1
+ 90 440 l 1
+EndSplineSet
+Layer: 2
+SplineSet
+70 470 m 1
+ 350 310 l 5
+ 70 150 l 1
+ 70 470 l 1
+EndSplineSet
+Layer: 3
+SplineSet
+90 440 m 1
+ 320 310 l 1
+ 90 180 l 1
+ 90 440 l 1
+EndSplineSet
+Layer: 4
+SplineSet
+169.901 470 m 1
+ 415.893 310 l 1
+ 101.884 150 l 1
+ 169.901 470 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+183.524 440 m 1
+ 385.893 310 l 1
+ 128.26 180 l 1
+ 183.524 440 l 1
+EndSplineSet
+EndChar

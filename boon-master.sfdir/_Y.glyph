@@ -1,0 +1,76 @@
+
+StartChar: Y
+Encoding: 89 89 127
+Width: 700
+VWidth: 0
+Flags: W
+HStem: 0 21G<300 400> 780 20G<30 160.526 539.474 670>
+VStem: 300 100<0 320>
+AnchorPoint: "hook_above" 711.346 850 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+30 800 m 5
+ 150 800 l 5
+ 350 420 l 5
+ 550 800 l 5
+ 670 800 l 5
+ 400 320 l 5
+ 400 0 l 5
+ 300 0 l 5
+ 300 320 l 5
+ 30 800 l 5
+EndSplineSet
+Layer: 2
+SplineSet
+0 800 m 1
+ 180 800 l 1
+ 350 440 l 1
+ 520 800 l 1
+ 700 800 l 1
+ 430 290 l 1
+ 430 0 l 1
+ 270 0 l 1
+ 270 290 l 1
+ 0 800 l 1
+EndSplineSet
+Layer: 3
+SplineSet
+30 800 m 5
+ 150 800 l 5
+ 350 420 l 5
+ 550 800 l 5
+ 670 800 l 5
+ 400 320 l 5
+ 400 0 l 5
+ 300 0 l 5
+ 300 320 l 5
+ 30 800 l 5
+EndSplineSet
+Layer: 4
+SplineSet
+170.045 800 m 1
+ 350.045 800 l 1
+ 443.525 440 l 1
+ 690.045 800 l 1
+ 870.045 800 l 1
+ 491.642 290 l 1
+ 430 0 l 1
+ 270 0 l 1
+ 331.642 290 l 1
+ 170.045 800 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+200.045 800 m 1
+ 320.045 800 l 1
+ 439.273 420 l 1
+ 720.045 800 l 1
+ 840.045 800 l 1
+ 468.019 320 l 1
+ 400 0 l 1
+ 300 0 l 1
+ 368.019 320 l 1
+ 200.045 800 l 1
+EndSplineSet
+EndChar

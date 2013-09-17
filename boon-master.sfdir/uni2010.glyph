@@ -1,0 +1,31 @@
+
+StartChar: uni2010
+Encoding: 8208 8208 232
+Width: 560
+VWidth: 0
+Flags: W
+HStem: 285 70<80 480>
+LayerCount: 6
+Fore
+Refer: 157 45 N 1 0 0 1 0 0 2
+Layer: 2
+Refer: 157 45 N 1 0 0 1 0 0 2
+Layer: 3
+Refer: 157 45 N 1 0 0 1 0 0 2
+Layer: 4
+SplineSet
+128.646 370 m 1
+ 588.646 370 l 1
+ 567.391 270 l 1
+ 107.391 270 l 1
+ 128.646 370 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+155.458 355 m 1
+ 555.458 355 l 1
+ 540.578 285 l 1
+ 140.578 285 l 1
+ 155.458 355 l 1
+EndSplineSet
+EndChar

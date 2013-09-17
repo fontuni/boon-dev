@@ -1,0 +1,40 @@
+
+StartChar: uni030C
+Encoding: 780 780 323
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 890 160
+AnchorPoint: "diac_top" -38.6543 850 mark 0
+LayerCount: 6
+Fore
+Refer: 313 770 N 1 0 0 -1 0 1940 2
+Layer: 2
+Refer: 313 770 N 1 0 0 -1 0 1940 2
+Layer: 3
+Refer: 313 770 N 1 0 0 -1 0 1940 2
+Layer: 4
+SplineSet
+-264.69 1060 m 1
+ -414.69 1060 l 1
+ -272.95 880 l 1
+ -252.95 880 l 1
+ -172.95 880 l 1
+ -152.95 880 l 1
+ 65.3096 1060 l 1
+ -84.6904 1060 l 1
+ -201.26 935 l 1
+ -264.69 1060 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+-276.815 1050 m 1
+ -386.815 1050 l 1
+ -245.824 890 l 1
+ -175.824 890 l 1
+ 33.1846 1050 l 1
+ -76.8154 1050 l 1
+ -202.109 931 l 1
+ -276.815 1050 l 1
+EndSplineSet
+EndChar

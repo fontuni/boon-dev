@@ -1,0 +1,54 @@
+
+StartChar: dotlessi
+Encoding: 305 305 235
+Width: 320
+VWidth: 0
+Flags: W
+HStem: 0 21G<110 210> 580 20G<110 210>
+VStem: 110 100<0 600>
+AnchorPoint: "hook_above" 449.076 680 basechar 0
+AnchorPoint: "ogonek" 177.004 40 basechar 0
+AnchorPoint: "diac_top" 436.324 650 basechar 0
+AnchorPoint: "diac_bottom" 138.744 -50 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+110 600 m 1
+ 210 600 l 5
+ 210 0 l 5
+ 110 0 l 1
+ 110 600 l 1
+EndSplineSet
+Layer: 2
+SplineSet
+80 600 m 1
+ 240 600 l 1
+ 240 0 l 1
+ 80 0 l 1
+ 80 600 l 1
+EndSplineSet
+Layer: 3
+SplineSet
+110 600 m 1
+ 210 600 l 5
+ 210 0 l 5
+ 110 0 l 1
+ 110 600 l 1
+EndSplineSet
+Layer: 4
+SplineSet
+207.534 600 m 1
+ 367.534 600 l 1
+ 240 0 l 1
+ 80 0 l 1
+ 207.534 600 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+237.534 600 m 1
+ 337.534 600 l 1
+ 210 0 l 1
+ 110 0 l 1
+ 237.534 600 l 1
+EndSplineSet
+EndChar

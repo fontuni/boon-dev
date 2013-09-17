@@ -1,0 +1,69 @@
+
+StartChar: uni0302
+Encoding: 770 770 313
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 890 160
+AnchorPoint: "diac_top" -38.6543 850 mark 0
+LayerCount: 6
+Fore
+SplineSet
+-500 890 m 1
+ -610 890 l 1
+ -435 1050 l 1
+ -365 1050 l 1
+ -190 890 l 1
+ -300 890 l 1
+ -400 1009 l 1
+ -500 890 l 1
+EndSplineSet
+Layer: 2
+SplineSet
+-490 880 m 1
+ -640 880 l 1
+ -460 1060 l 1
+ -440 1060 l 1
+ -360 1060 l 1
+ -340 1060 l 1
+ -160 880 l 1
+ -310 880 l 1
+ -400 1005 l 1
+ -490 880 l 1
+EndSplineSet
+Layer: 3
+SplineSet
+-500 890 m 1
+ -610 890 l 1
+ -435 1050 l 1
+ -365 1050 l 1
+ -190 890 l 1
+ -300 890 l 1
+ -400 1009 l 1
+ -500 890 l 1
+EndSplineSet
+Layer: 4
+SplineSet
+-302.95 880 m 1
+ -452.95 880 l 1
+ -234.69 1060 l 1
+ -214.69 1060 l 1
+ -134.69 1060 l 1
+ -114.69 1060 l 1
+ 27.0498 880 l 1
+ -122.95 880 l 1
+ -186.381 1005 l 1
+ -302.95 880 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+-310.824 890 m 1
+ -420.824 890 l 1
+ -211.815 1050 l 1
+ -141.815 1050 l 1
+ -0.824219 890 l 1
+ -110.824 890 l 1
+ -185.53 1009 l 1
+ -310.824 890 l 1
+EndSplineSet
+EndChar

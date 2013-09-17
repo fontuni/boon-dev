@@ -1,0 +1,31 @@
+
+StartChar: figuredash
+Encoding: 8210 8210 862
+Width: 970
+VWidth: 0
+Flags: W
+HStem: 285 70<90 890>
+LayerCount: 6
+Fore
+Refer: 218 8212 N 1 0 0 1 0 0 2
+Layer: 2
+Refer: 218 8212 N 1 0 0 1 0 0 2
+Layer: 3
+Refer: 218 8212 N 1 0 0 1 0 0 2
+Layer: 4
+SplineSet
+138.646 370 m 1
+ 998.646 370 l 1
+ 977.391 270 l 1
+ 117.391 270 l 1
+ 138.646 370 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+165.458 355 m 1
+ 965.458 355 l 1
+ 950.578 285 l 1
+ 150.578 285 l 1
+ 165.458 355 l 1
+EndSplineSet
+EndChar
