@@ -4,9 +4,9 @@ Encoding: 791 791 330
 Width: 0
 VWidth: 0
 Flags: W
-HStem: -260 160
-VStem: -590 300
-LayerCount: 6
+HStem: -240 120
+VStem: -600 320
+LayerCount: 5
 Fore
 Refer: 329 790 N -1 0 0 1 -880 0 2
 Layer: 2
@@ -14,19 +14,5 @@ Refer: 329 790 N -1 0 0 1 -880 0 2
 Layer: 3
 Refer: 329 790 N -1 0 0 1 -880 0 2
 Layer: 4
-SplineSet
--277.005 -80 m 1
- -467.005 -80 l 1
- -675.265 -260 l 1
- -565.265 -260 l 1
- -277.005 -80 l 1
-EndSplineSet
-Layer: 5
-SplineSet
--311.256 -100 m 1
- -441.256 -100 l 1
- -645.265 -260 l 1
- -580.265 -260 l 1
- -311.256 -100 l 1
-EndSplineSet
+Refer: 329 790 N -1 0 0 1 -880 0 2
 EndChar

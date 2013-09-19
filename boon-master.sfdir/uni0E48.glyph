@@ -4,16 +4,16 @@ Encoding: 3656 3656 9
 Width: 0
 VWidth: 0
 Flags: W
-HStem: 990 250
-VStem: -200 80<1033 1240>
-LayerCount: 6
+HStem: 1000 230
+VStem: -170 60<1040 1230>
+LayerCount: 5
 Fore
 SplineSet
--200 1240 m 5
- -120 1240 l 5
- -120 990 l 5
- -200 1033 l 5
- -200 1240 l 5
+-170 1230 m 5
+ -110 1230 l 5
+ -110 1000 l 5
+ -170 1040 l 5
+ -170 1230 l 5
 EndSplineSet
 Layer: 2
 SplineSet
@@ -33,19 +33,11 @@ SplineSet
 EndSplineSet
 Layer: 4
 SplineSet
-43.5703 1240 m 1
- 163.57 1240 l 1
- 110.431 990 l 1
- -0.428711 1033 l 1
- 43.5703 1240 l 1
-EndSplineSet
-Layer: 5
-SplineSet
-63.5703 1240 m 1
- 143.57 1240 l 1
- 90.4307 990 l 1
- 19.5713 1033 l 1
- 63.5703 1240 l 1
+-170 1230 m 5
+ -110 1230 l 5
+ -110 1000 l 5
+ -170 1040 l 5
+ -170 1230 l 5
 EndSplineSet
 Position2: "Nikhahit & Tone High-Left" dx=-240 dy=0 dh=0 dv=0
 Position2: "Mai Han-Akat & Tone High-Left" dx=-300 dy=0 dh=0 dv=0

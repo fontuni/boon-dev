@@ -4,16 +4,17 @@ Encoding: 772 772 315
 Width: 0
 VWidth: 0
 Flags: W
-HStem: 900 60<-610 -210>
+HStem: 910 50<-600 -220>
+VStem: -600 380<910 960>
 AnchorPoint: "diac_top" -48.6543 850 mark 0
-LayerCount: 6
+LayerCount: 5
 Fore
 SplineSet
--610 960 m 5
- -210 960 l 5
- -210 900 l 5
- -610 900 l 5
- -610 960 l 5
+-600 960 m 1
+ -220 960 l 5
+ -220 910 l 5
+ -600 910 l 1
+ -600 960 l 1
 EndSplineSet
 Layer: 2
 SplineSet
@@ -33,18 +34,10 @@ SplineSet
 EndSplineSet
 Layer: 4
 SplineSet
--433.82 970 m 1
- 26.1797 970 l 1
- 7.0498 880 l 1
- -452.95 880 l 1
- -433.82 970 l 1
-EndSplineSet
-Layer: 5
-SplineSet
--405.945 960 m 1
- -5.94531 960 l 1
- -18.6992 900 l 1
- -418.699 900 l 1
- -405.945 960 l 1
+-600 960 m 1
+ -220 960 l 5
+ -220 910 l 5
+ -600 910 l 1
+ -600 960 l 1
 EndSplineSet
 EndChar

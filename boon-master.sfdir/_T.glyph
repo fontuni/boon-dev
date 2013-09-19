@@ -4,25 +4,25 @@ Encoding: 84 84 120
 Width: 580
 VWidth: 0
 Flags: W
-HStem: 0 21G<240 340> 710 90<50 240 340 530>
-VStem: 240 100<0 710>
+HStem: 0 21G<255 325> 740 60<60 255 325 520>
+VStem: 255 70<0 740>
 AnchorPoint: "cedilla" 297.004 40 basechar 0
 AnchorPoint: "diac_bottom" 268.744 -50 basechar 0
 AnchorPoint: "diac_top" 651.346 850 basechar 0
-LayerCount: 6
+LayerCount: 5
 Fore
 SplineSet
-50 710 m 1
- 50 800 l 1
- 240 800 l 5
- 340 800 l 5
- 530 800 l 1
- 530 710 l 1
- 340 710 l 1
- 340 0 l 1
- 240 0 l 1
- 240 710 l 1
- 50 710 l 1
+60 740 m 1
+ 60 800 l 1
+ 255 800 l 1
+ 325 800 l 1
+ 520 800 l 5
+ 520 740 l 5
+ 325 740 l 1
+ 325 0 l 1
+ 255 0 l 1
+ 255 740 l 1
+ 60 740 l 1
 EndSplineSet
 Layer: 2
 SplineSet
@@ -54,30 +54,16 @@ SplineSet
 EndSplineSet
 Layer: 4
 SplineSet
-174.538 680 m 1
- 200.045 800 l 1
- 410.045 800 l 1
- 510.045 800 l 1
- 720.045 800 l 1
- 694.538 680 l 1
- 514.538 680 l 1
- 370 0 l 1
- 210 0 l 1
- 354.538 680 l 1
- 174.538 680 l 1
-EndSplineSet
-Layer: 5
-SplineSet
-200.915 710 m 1
- 220.045 800 l 1
- 410.045 800 l 1
- 510.045 800 l 1
- 700.045 800 l 1
- 680.915 710 l 1
- 490.915 710 l 1
- 340 0 l 1
- 240 0 l 1
- 390.915 710 l 1
- 200.915 710 l 1
+60 740 m 1
+ 60 800 l 1
+ 255 800 l 1
+ 325 800 l 1
+ 520 800 l 5
+ 520 740 l 5
+ 325 740 l 1
+ 325 0 l 1
+ 255 0 l 1
+ 255 740 l 1
+ 60 740 l 1
 EndSplineSet
 EndChar

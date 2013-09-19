@@ -5,7 +5,7 @@ Width: 330
 VWidth: 0
 Flags: W
 HStem: 620 220
-LayerCount: 6
+LayerCount: 5
 Fore
 Refer: 871 8242 N -1 0 0 1 330 0 2
 Layer: 2
@@ -13,19 +13,5 @@ Refer: 871 8242 N -1 0 0 1 330 0 2
 Layer: 3
 Refer: 871 8242 N -1 0 0 1 330 0 2
 Layer: 4
-SplineSet
-208.548 840 m 1
- 358.548 840 l 1
- 431.785 620 l 1
- 335.785 620 l 1
- 208.548 840 l 1
-EndSplineSet
-Layer: 5
-SplineSet
-228.548 840 m 1
- 348.548 840 l 1
- 411.785 620 l 1
- 345.785 620 l 1
- 228.548 840 l 1
-EndSplineSet
+Refer: 871 8242 N -1 0 0 1 330 0 2
 EndChar

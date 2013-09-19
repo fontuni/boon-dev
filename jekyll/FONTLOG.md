@@ -4,21 +4,21 @@ layout: default
 ---
 
 ##  Boon v0.5, 2013-09-17
-  - Redraw all glyphs
-  - Match Latin x-height with Thai บ-height
-  - Reduce Latin cap-height
-  - Add more character spacing
-  - Complete **Basic Latin**, **Latin-1 supplement** & **Thai**
-  - Rename all font files
+  - Redrew all glyphs
+  - Matched Latin x-height with Thai บ-height
+  - Reduced Latin cap-height
+  - Added more character spacing
+  - Completed **Basic Latin**, **Latin-1 supplement** & **Thai**
+  - Renamed all font files
       1. Boon-Book => **boon-400**
       2. Boon-Book-Italic => **boon-400-oblique**
       3. Boon-Bold => **boon-700**
       4. Boon-Bold-italic => **boon-700-oblique**
-  - Move source files to **boon-dev** repository <https://github.com/sungsit/boon-dev>
+  - Moved source files to **boon-dev** repository <https://github.com/sungsit/boon-dev>
 
 
 ##  Boon v0.4, 2013-07-15
-  - Improve kerning
+  - Improved kerning
 
 
 ##  Boon v0.3.1, 2013-07-01

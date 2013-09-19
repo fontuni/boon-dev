@@ -4,15 +4,15 @@ Encoding: 823 823 260
 Width: 0
 VWidth: 0
 Flags: W
-HStem: 0 21G<-600 -519.833> 580 20G<-160.167 -80>
-LayerCount: 6
+HStem: 0 21G<-590 -529.833> 580 20G<-150.167 -90>
+LayerCount: 5
 Fore
 SplineSet
--145 600 m 5
- -80 600 l 1
- -535 0 l 1
- -600 0 l 1
- -145 600 l 5
+-135 600 m 5
+ -90 600 l 1
+ -545 0 l 1
+ -590 0 l 5
+ -135 600 l 5
 EndSplineSet
 Layer: 2
 SplineSet
@@ -32,18 +32,10 @@ SplineSet
 EndSplineSet
 Layer: 4
 SplineSet
--17.4658 600 m 1
- 77.5342 600 l 1
- -535 0 l 1
- -630 0 l 1
- -17.4658 600 l 1
-EndSplineSet
-Layer: 5
-SplineSet
--17.4658 600 m 1
- 47.5342 600 l 1
- -535 0 l 1
- -600 0 l 1
- -17.4658 600 l 1
+-135 600 m 5
+ -90 600 l 1
+ -545 0 l 1
+ -590 0 l 5
+ -135 600 l 5
 EndSplineSet
 EndChar

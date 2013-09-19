@@ -1,34 +1,33 @@
 SplineFontDB: 3.0
-FontName: boon-400
-FullName: Boon Book
+FontName: boon-300
+FullName: Boon Light
 FamilyName: Boon
-Weight: Book
+Weight: Light
 Copyright: Copyright (C) 2013 Sungsit Sawaiwan <http://sungsit.com/> \n\nThis font is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. \n\nThis font is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. \n\nYou should have received a copy of the GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses/>. \n\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.
 UComments: "Created with FontForge 2.0 <http://fontforge.org/>" 
 FontLog: "##  Boon v0.5, 2013-09-17+AAoA  - Redraw all glyphs+AAoA  - Match Latin x-height with Thai +DhoA--height+AAoA  - Reduce Latin cap-height+AAoA  - Add more character spacing+AAoA  - Complete **Basic Latin**, **Latin-1 supplement** & **Thai**+AAoA  - Rename all font files+AAoA      1. Boon-Book +AD0A> **boon-400**+AAoA      2. Boon-Book-Italic +AD0A> **boon-400-oblique**+AAoA      3. Boon-Bold +AD0A> **boon-700**+AAoA      4. Boon-Bold-italic +AD0A> **boon-700-oblique**+AAoA  - Move source files to **boon-dev** repository <https://github.com/sungsit/boon-dev>+AAoACgAA##  Boon v0.4, 2013-07-15+AAoA  - Improve kerning+AAoACgAA##  Boon v0.3.1, 2013-07-01+AAoA  - Corrected font version+AAoACgAA##  Boon v0.3, 2013-07-01+AAoA  - Improved Latin kerning+AAoA  - Added HTML/CSS and project page+AAoACgAA##  Boon v0.2, 2013-06-30+AAoA  - Included Boon-Bold and Boon-Bold-Italic (auto-generated)+AAoA  - Renamed Boon-Italic to Boon-Book-Italic+AAoACgAA##  Boon v0.1, 2013-06-27+AAoA  - Released Boon-Book and Boon-Italic (auto-generated)" 
-Version: 0.5
+Version: 0.6
 ItalicAngle: 0
 UnderlinePosition: -60
 UnderlineWidth: 20
 Ascent: 840
 Descent: 360
 woffMajor: 0
-woffMinor: 5
-LayerCount: 6
+woffMinor: 6
+LayerCount: 5
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
 Layer: 2 0 "700"  1
 Layer: 3 0 "400"  1
-Layer: 4 0 "700-oblique"  1
-Layer: 5 0 "400-oblique"  1
+Layer: 4 0 "300"  1
 FSType: 8
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1369324892
-ModificationTime: 1379408131
+ModificationTime: 1379563859
 PfmFamily: 33
-TTFWeight: 400
+TTFWeight: 300
 TTFWidth: 5
 LineGap: 108
 VLineGap: 0
@@ -330,7 +329,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 18 9
+WinInfo: 702 18 9
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 349525 174762 116508 0 1048576 116508 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144

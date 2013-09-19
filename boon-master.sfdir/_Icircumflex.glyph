@@ -3,11 +3,11 @@ StartChar: Icircumflex
 Encoding: 206 206 280
 Width: 320
 VWidth: 0
-HStem: 0 21<110 210> 780 20<110 210> 890 160
-VStem: 110 100<0 800>
+HStem: 0 21<125 195> 780 20<125 195> 890 160
+VStem: -30 380 125 70<0 800>
 AnchorPoint: "diac_bottom" 138.744 -50 basechar 0
 AnchorPoint: "diac_top" 619.123 1080 basechar 0
-LayerCount: 6
+LayerCount: 5
 Fore
 Refer: 313 770 N 1 0 0 1 560 0 2
 Refer: 108 73 N 1 0 0 1 0 0 3
@@ -18,37 +18,6 @@ Layer: 3
 Refer: 313 770 N 1 0 0 1 560 0 2
 Refer: 108 73 N 1 0 0 1 0 0 3
 Layer: 4
-SplineSet
-257.05 880 m 1
- 107.05 880 l 1
- 325.31 1060 l 1
- 345.31 1060 l 1
- 425.31 1060 l 1
- 445.31 1060 l 1
- 587.05 880 l 1
- 437.05 880 l 1
- 373.619 1005 l 1
- 257.05 880 l 1
-250.045 800 m 1
- 410.045 800 l 1
- 240 0 l 1
- 80 0 l 1
- 250.045 800 l 1
-EndSplineSet
-Layer: 5
-SplineSet
-249.176 890 m 1
- 139.176 890 l 1
- 348.185 1050 l 1
- 418.185 1050 l 1
- 559.176 890 l 1
- 449.176 890 l 1
- 374.47 1009 l 1
- 249.176 890 l 1
-280.045 800 m 1
- 380.045 800 l 1
- 210 0 l 1
- 110 0 l 1
- 280.045 800 l 1
-EndSplineSet
+Refer: 313 770 N 1 0 0 1 560 0 2
+Refer: 108 73 N 1 0 0 1 0 0 3
 EndChar

@@ -5,14 +5,14 @@ Width: 330
 VWidth: 0
 Flags: W
 HStem: 620 220
-LayerCount: 6
+LayerCount: 5
 Fore
 SplineSet
-280 840 m 5
- 160 840 l 5
- 50 620 l 5
- 116 620 l 5
- 280 840 l 5
+270 840 m 5
+ 170 840 l 1
+ 60 620 l 1
+ 106 620 l 5
+ 270 840 l 5
 EndSplineSet
 Layer: 2
 SplineSet
@@ -32,18 +32,10 @@ SplineSet
 EndSplineSet
 Layer: 4
 SplineSet
-478.548 840 m 1
- 328.548 840 l 1
- 161.785 620 l 1
- 257.785 620 l 1
- 478.548 840 l 1
-EndSplineSet
-Layer: 5
-SplineSet
-458.548 840 m 1
- 338.548 840 l 1
- 181.785 620 l 1
- 247.785 620 l 1
- 458.548 840 l 1
+270 840 m 5
+ 170 840 l 1
+ 60 620 l 1
+ 106 620 l 5
+ 270 840 l 5
 EndSplineSet
 EndChar

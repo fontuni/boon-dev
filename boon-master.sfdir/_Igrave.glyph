@@ -3,11 +3,11 @@ StartChar: Igrave
 Encoding: 204 204 278
 Width: 320
 VWidth: 0
-HStem: 0 21<110 210> 780 20<110 210> 890 160
-VStem: -40 300 110 100<0 800>
+HStem: 0 21<125 195> 780 20<125 195> 910 120
+VStem: -50 320 125 70<0 800>
 AnchorPoint: "diac_bottom" 138.744 -50 basechar 0
 AnchorPoint: "diac_top" 619.123 1080 basechar 0
-LayerCount: 6
+LayerCount: 5
 Fore
 Refer: 312 768 N 1 0 0 1 550 0 2
 Refer: 108 73 N 1 0 0 1 0 0 3
@@ -18,29 +18,6 @@ Layer: 3
 Refer: 312 768 N 1 0 0 1 550 0 2
 Refer: 108 73 N 1 0 0 1 0 0 3
 Layer: 4
-SplineSet
-155.31 1060 m 1
- 345.31 1060 l 1
- 477.05 880 l 1
- 367.05 880 l 1
- 155.31 1060 l 1
-250.045 800 m 1
- 410.045 800 l 1
- 240 0 l 1
- 80 0 l 1
- 250.045 800 l 1
-EndSplineSet
-Layer: 5
-SplineSet
-183.185 1050 m 1
- 313.185 1050 l 1
- 449.176 890 l 1
- 384.176 890 l 1
- 183.185 1050 l 1
-280.045 800 m 1
- 380.045 800 l 1
- 210 0 l 1
- 110 0 l 1
- 280.045 800 l 1
-EndSplineSet
+Refer: 312 768 N 1 0 0 1 550 0 2
+Refer: 108 73 N 1 0 0 1 0 0 3
 EndChar
