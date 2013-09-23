@@ -3,10 +3,9 @@ StartChar: hyphen
 Encoding: 45 45 157
 Width: 560
 VWidth: 0
-Flags: W
-HStem: 295 50<90 470>
-VStem: 90 380<295 345>
-LayerCount: 5
+Flags: HW
+HStem: 285 70<80 480>
+LayerCount: 6
 Fore
 SplineSet
 90 345 m 1
@@ -38,5 +37,13 @@ SplineSet
  470 295 l 5
  90 295 l 5
  90 345 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+70 360 m 5
+ 490 360 l 1
+ 490 280 l 1
+ 70 280 l 5
+ 70 360 l 5
 EndSplineSet
 EndChar

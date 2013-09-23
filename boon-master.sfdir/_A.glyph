@@ -3,15 +3,15 @@ StartChar: A
 Encoding: 65 65 128
 Width: 800
 VWidth: 0
-Flags: W
-HStem: 0 21G<40 127.889 672.111 760> 180 60<214 586> 780 20G<356.875 443.125>
-AnchorPoint: "hook_above" 761.346 850 basechar 0
-AnchorPoint: "ring_above" 723.086 760 basechar 0
-AnchorPoint: "diac_bottom" 378.744 -50 basechar 0
-AnchorPoint: "diac_top" 761.346 850 basechar 0
-AnchorPoint: "ogonek" 707.004 40 basechar 0
+Flags: HW
+HStem: 0 21G<30 147.758 652.242 770> 165 90<239 561> 780 20G<342 458>
+AnchorPoint: "diac_top" 400 850 basechar 0
+AnchorPoint: "hook_above" 400 850 basechar 0
+AnchorPoint: "ring_above" 400 750 basechar 0
+AnchorPoint: "diac_bottom" 400 -50 basechar 0
+AnchorPoint: "ogonek" 700 40 basechar 0
 AnchorPoint: "cedilla" 707.004 40 basechar 0
-LayerCount: 5
+LayerCount: 6
 Fore
 SplineSet
 760 0 m 1
@@ -77,5 +77,21 @@ SplineSet
  400 711 l 1
  214 240 l 1
  586 240 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+780 0 m 1
+ 650 0 l 1
+ 588 160 l 1
+ 212 160 l 1
+ 150 0 l 1
+ 20 0 l 1
+ 340 800 l 1
+ 460 800 l 1
+ 780 0 l 1
+549 260 m 1
+ 400 645 l 1
+ 251 260 l 1
+ 549 260 l 1
 EndSplineSet
 EndChar

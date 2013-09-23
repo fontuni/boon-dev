@@ -3,10 +3,10 @@ StartChar: exclamdown
 Encoding: 161 161 209
 Width: 310
 VWidth: 0
-Flags: W
-HStem: -270 20<125 195> 510 120<111.108 208.892>
-VStem: 100 120<521.108 618.892> 125 70<-270 337.2>
-LayerCount: 5
+Flags: HW
+HStem: -270 20<110 210> 490 140<105.875 214.125>
+VStem: 90 140<505.875 614.125> 110 100<-270 320.4> 130 60<339.6 390>
+LayerCount: 6
 Fore
 Refer: 163 33 N 1 0 0 -1 0 630 2
 Layer: 2
@@ -14,5 +14,7 @@ Refer: 163 33 N 1 0 0 -1 0 630 2
 Layer: 3
 Refer: 163 33 N 1 0 0 -1 0 630 2
 Layer: 4
+Refer: 163 33 N 1 0 0 -1 0 630 2
+Layer: 5
 Refer: 163 33 N 1 0 0 -1 0 630 2
 EndChar

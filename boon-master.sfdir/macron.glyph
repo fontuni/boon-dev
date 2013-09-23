@@ -3,10 +3,9 @@ StartChar: macron
 Encoding: 175 175 252
 Width: 560
 VWidth: 0
-Flags: W
-HStem: 750 50<90 470>
-VStem: 90 380<750 800>
-LayerCount: 5
+Flags: HW
+HStem: 740 60<80 480>
+LayerCount: 6
 Fore
 SplineSet
 90 800 m 1
@@ -38,5 +37,13 @@ SplineSet
  470 750 l 5
  90 750 l 1
  90 800 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+70 800 m 1
+ 490 800 l 1
+ 490 730 l 5
+ 70 730 l 5
+ 70 800 l 1
 EndSplineSet
 EndChar

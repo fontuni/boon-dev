@@ -3,14 +3,14 @@ StartChar: m
 Encoding: 109 109 140
 Width: 970
 VWidth: 0
-Flags: W
-HStem: 0 21G<100 170 455 525 810 880> 560 60<260.985 415.012 605.54 770.872> 580 20G<100 170>
-VStem: 100 70<0 461.281 495 600> 455 70<0 479> 810 70<0 519.348>
+Flags: HW
+HStem: 0 21G<90 190 440 540 790 890> 530 90<260.212 413.555 600.216 763.383> 580 20G<90 190>
+VStem: 90 100<0 469.229 528 600> 440 100<0 444.625> 790 100<0 502.719>
 CounterMasks: 1 1c
-AnchorPoint: "diac_bottom" 458.744 -50 basechar 0
-AnchorPoint: "diac_top" 756.324 650 basechar 0
-AnchorPoint: "cedilla" 837.004 40 basechar 0
-LayerCount: 5
+AnchorPoint: "diac_top" 490 650 basechar 0
+AnchorPoint: "diac_bottom" 490 -50 basechar 0
+AnchorPoint: "cedilla" 480 40 basechar 0
+LayerCount: 6
 Fore
 SplineSet
 100 600 m 1xbc
@@ -106,5 +106,29 @@ SplineSet
  170 0 l 1
  100 0 l 1
  100 600 l 1xbc
+EndSplineSet
+Layer: 5
+SplineSet
+80 600 m 1xbc
+ 200 600 l 1xbc
+ 200 535 l 1
+ 235 578 290 620 365 620 c 0
+ 436 620 492 587 523 532 c 1
+ 555 568 619 620 710 620 c 0
+ 832 620 900 542 900 420 c 2
+ 900 0 l 1
+ 780 0 l 1
+ 780 420 l 2
+ 780 495 748 520 680 520 c 0
+ 620 520 577 492 548 454 c 1
+ 549 443 550 432 550 420 c 2
+ 550 0 l 1
+ 430 0 l 1
+ 430 420 l 2
+ 430 495 398 520 330 520 c 0xdc
+ 271 520 229 489 200 448 c 1
+ 200 0 l 1
+ 80 0 l 1
+ 80 600 l 1xbc
 EndSplineSet
 EndChar

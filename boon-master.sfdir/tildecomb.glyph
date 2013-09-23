@@ -3,11 +3,11 @@ StartChar: tildecomb
 Encoding: 771 771 314
 Width: 0
 VWidth: 0
-Flags: W
-HStem: 900 50<-373.157 -273.616> 980 50<-526.384 -426.843>
-VStem: -590 40<916.85 947.907> -250 40<982.093 1013.15>
-AnchorPoint: "diac_top" -38.6543 850 mark 0
-LayerCount: 5
+Flags: HW
+HStem: 890 60<-369.502 -267.593> 970 60<-532.407 -430.498>
+VStem: -600 45<907.2 941.34> -245 45<978.66 1012.8>
+AnchorPoint: "diac_top" -400 850 mark 0
+LayerCount: 6
 Fore
 SplineSet
 -475 1030 m 0
@@ -64,4 +64,19 @@ SplineSet
  -590 920 l 1
  -580 982 -546 1030 -475 1030 c 0
 EndSplineSet
+Layer: 5
+SplineSet
+-480 1030 m 4
+ -441 1030 -407 1011 -383 989 c 0
+ -362.046 969.792 -347 950 -315 950 c 0
+ -268 950 -251 979 -240 1020 c 1
+ -190 1005 l 1
+ -200 943 -244 880 -320 880 c 0
+ -359 880 -393 899 -417 921 c 0
+ -437.954 940.208 -453 960 -485 960 c 0
+ -532 960 -549 931 -560 890 c 1
+ -610 905 l 1
+ -600 967 -556 1030 -480 1030 c 4
+EndSplineSet
+Substitution2: "Latin Diacritic Substitution-1" uni0303.narrow
 EndChar

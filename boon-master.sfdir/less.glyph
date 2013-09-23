@@ -3,9 +3,8 @@ StartChar: less
 Encoding: 60 60 182
 Width: 600
 VWidth: 0
-Flags: W
-VStem: 110 380
-LayerCount: 5
+Flags: HW
+LayerCount: 6
 Fore
 SplineSet
 110 305 m 5
@@ -49,5 +48,16 @@ SplineSet
  490 165 l 1
  490 100 l 5
  110 305 l 5
+EndSplineSet
+Layer: 5
+SplineSet
+90 275 m 1
+ 90 365 l 1
+ 510 575 l 1
+ 510 465 l 1
+ 200 320 l 1
+ 510 175 l 1
+ 510 65 l 5
+ 90 275 l 1
 EndSplineSet
 EndChar

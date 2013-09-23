@@ -3,11 +3,10 @@ StartChar: uni030C
 Encoding: 780 780 323
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 890 160
-VStem: -590 380
-AnchorPoint: "diac_top" -38.6543 850 mark 0
-LayerCount: 5
+AnchorPoint: "diac_top" -400 850 mark 0
+LayerCount: 6
 Fore
 Refer: 313 770 N 1 0 0 -1 0 1940 2
 Layer: 2
@@ -16,4 +15,7 @@ Layer: 3
 Refer: 313 770 N 1 0 0 -1 0 1940 2
 Layer: 4
 Refer: 313 770 N 1 0 0 -1 0 1940 2
+Layer: 5
+Refer: 313 770 N 1 0 0 -1 0 1910 2
+Substitution2: "Latin Diacritic Substitution-1" uni030C.narrow
 EndChar

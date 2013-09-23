@@ -3,10 +3,10 @@ StartChar: uni0321
 Encoding: 801 801 852
 Width: 0
 VWidth: 0
-Flags: W
-HStem: -290 60<-300 -208.503> -20 20G<-170 -100>
-VStem: -170 70<-191.811 0>
-LayerCount: 5
+Flags: HW
+HStem: -290 90<-320 -227.432> -20 20G<-190 -90>
+VStem: -190 100<-165.608 0>
+LayerCount: 6
 Fore
 SplineSet
 -100 -100 m 6
@@ -46,5 +46,15 @@ SplineSet
  -170 0 l 5
  -100 0 l 5
  -100 -100 l 6
+EndSplineSet
+Layer: 5
+SplineSet
+-80 -100 m 2
+ -80 -217 -163 -290 -330 -290 c 1
+ -330 -190 l 1
+ -259 -190 -200 -158 -200 -90 c 2
+ -200 0 l 1
+ -80 0 l 1
+ -80 -100 l 2
 EndSplineSet
 EndChar

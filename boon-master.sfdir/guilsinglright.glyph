@@ -2,9 +2,9 @@
 StartChar: guilsinglright
 Encoding: 8250 8250 215
 Width: 390
-Flags: W
-VStem: 80 220
-LayerCount: 5
+Flags: HW
+VStem: 70 240
+LayerCount: 6
 Fore
 Refer: 214 8249 S -1 0 0 1 390 0 2
 Layer: 2
@@ -12,5 +12,7 @@ Refer: 214 8249 S -1 0 0 1 390 0 2
 Layer: 3
 Refer: 214 8249 S -1 0 0 1 390 0 2
 Layer: 4
+Refer: 214 8249 S -1 0 0 1 390 0 2
+Layer: 5
 Refer: 214 8249 S -1 0 0 1 390 0 2
 EndChar

@@ -3,10 +3,10 @@ StartChar: comma
 Encoding: 44 44 171
 Width: 320
 VWidth: 0
-Flags: W
-HStem: 0 120<111.108 164.631>
-VStem: 100 125<12.967 106.96>
-LayerCount: 5
+Flags: HW
+HStem: -150 290
+VStem: 160 80<-53.2049 0>
+LayerCount: 6
 Fore
 SplineSet
 165 0 m 5
@@ -48,5 +48,15 @@ SplineSet
  225 -33 181 -96 120 -150 c 5
  85 -150 l 5
  144 -93 162 -49 165 0 c 5
+EndSplineSet
+Layer: 5
+SplineSet
+160 160 m 4
+ 214 160 250 118 250 60 c 4
+ 250 -18 189 -107 130 -150 c 5
+ 70 -150 l 5
+ 119 -107 160 -55 160 0 c 5
+ 114 0 80 35 80 80 c 4
+ 80 125 114 160 160 160 c 4
 EndSplineSet
 EndChar

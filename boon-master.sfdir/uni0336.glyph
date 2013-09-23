@@ -3,9 +3,9 @@ StartChar: uni0336
 Encoding: 822 822 344
 Width: 0
 VWidth: 0
-Flags: W
-HStem: 285 50<-760 -40>
-LayerCount: 5
+Flags: HW
+HStem: 280 60<-770 -30>
+LayerCount: 6
 Fore
 SplineSet
 -760 335 m 5
@@ -37,5 +37,13 @@ SplineSet
  -40 285 l 1
  -760 285 l 5
  -760 335 l 5
+EndSplineSet
+Layer: 5
+SplineSet
+-780 345 m 5
+ -20 345 l 5
+ -20 275 l 1
+ -780 275 l 1
+ -780 345 l 5
 EndSplineSet
 EndChar

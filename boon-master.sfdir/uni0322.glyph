@@ -3,10 +3,10 @@ StartChar: uni0322
 Encoding: 802 802 853
 Width: 0
 VWidth: 0
-Flags: W
-HStem: -290 60<-201.497 -110> -20 20<-310 -240>
-VStem: -310 70<-191.811 0>
-LayerCount: 5
+Flags: HW
+HStem: -290 90<-182.568 -90> -20 20<-320 -220>
+VStem: -320 100<-165.608 0>
+LayerCount: 6
 Fore
 Refer: 852 801 N -1 0 0 1 -410 0 2
 Layer: 2
@@ -14,5 +14,7 @@ Refer: 852 801 N -1 0 0 1 -410 0 2
 Layer: 3
 Refer: 852 801 N -1 0 0 1 -410 0 2
 Layer: 4
+Refer: 852 801 N -1 0 0 1 -410 0 2
+Layer: 5
 Refer: 852 801 N -1 0 0 1 -410 0 2
 EndChar

@@ -3,10 +3,10 @@ StartChar: uni0317
 Encoding: 791 791 330
 Width: 0
 VWidth: 0
-Flags: W
-HStem: -240 120
-VStem: -600 320
-LayerCount: 5
+Flags: HW
+HStem: -260 160
+VStem: -590 300
+LayerCount: 6
 Fore
 Refer: 329 790 N -1 0 0 1 -880 0 2
 Layer: 2
@@ -14,5 +14,7 @@ Refer: 329 790 N -1 0 0 1 -880 0 2
 Layer: 3
 Refer: 329 790 N -1 0 0 1 -880 0 2
 Layer: 4
+Refer: 329 790 N -1 0 0 1 -880 0 2
+Layer: 5
 Refer: 329 790 N -1 0 0 1 -880 0 2
 EndChar

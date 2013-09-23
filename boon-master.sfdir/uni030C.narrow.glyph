@@ -1,0 +1,11 @@
+
+StartChar: uni030C.narrow
+Encoding: 1114131 -1 887
+Width: 320
+VWidth: 0
+Flags: HW
+AnchorPoint: "diac_top" 160 850 mark 0
+LayerCount: 6
+Layer: 5
+Refer: 882 -1 N 1 0 0 -1 0 1910 2
+EndChar

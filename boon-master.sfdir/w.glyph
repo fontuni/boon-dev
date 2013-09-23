@@ -3,12 +3,12 @@ StartChar: w
 Encoding: 119 119 146
 Width: 850
 VWidth: 0
-Flags: W
-HStem: 0 21G<214.333 305.165 544.835 635.667> 580 20G<50 130.331 389.825 460.175 719.669 800>
-AnchorPoint: "diac_bottom" 403.744 -50 basechar 0
-AnchorPoint: "diac_top" 701.324 650 basechar 0
-AnchorPoint: "ring_above" 714.076 680 basechar 0
-LayerCount: 5
+Flags: HW
+HStem: 0 21G<204.333 315.169 534.831 645.667> 580 20G<40 150 379.831 470.169 700 810>
+AnchorPoint: "diac_top" 425 650 basechar 0
+AnchorPoint: "diac_bottom" 425 -50 basechar 0
+AnchorPoint: "ring_above" 425 650 basechar 0
+LayerCount: 6
 Fore
 SplineSet
 725 600 m 1
@@ -92,5 +92,26 @@ SplineSet
  455 600 l 1
  588 86 l 1
  725 600 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+695 600 m 1
+ 820 600 l 1
+ 650 0 l 1
+ 630 0 l 1
+ 545 0 l 1
+ 540 0 l 1
+ 425 431 l 1
+ 310 0 l 1
+ 305 0 l 1
+ 220 0 l 1
+ 200 0 l 1
+ 30 600 l 1
+ 155 600 l 1
+ 264 165 l 1
+ 380 600 l 1
+ 470 600 l 1
+ 586 165 l 1
+ 695 600 l 1
 EndSplineSet
 EndChar

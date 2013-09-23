@@ -3,12 +3,13 @@ StartChar: Idieresis
 Encoding: 207 207 281
 Width: 320
 VWidth: 0
-HStem: 0 21<125 195> 780 20<125 195> 920 120<-18.8921 78.8921 241.108 338.892>
-VStem: -30 120<931.108 1028.89> 125 70<0 800> 230 120<931.108 1028.89>
+Flags: H
+HStem: 0 21<110 210> 780 20<110 210> 920 140<-24.1252 84.1252 235.875 344.125>
+VStem: -40 140<935.875 1044.13> 110 100<0 800> 220 140<935.875 1044.13>
 CounterMasks: 1 1c
-AnchorPoint: "diac_bottom" 138.744 -50 basechar 0
-AnchorPoint: "diac_top" 619.123 1080 basechar 0
-LayerCount: 5
+AnchorPoint: "diac_top" 160 1030 basechar 0
+AnchorPoint: "diac_bottom" 160 -50 basechar 0
+LayerCount: 6
 Fore
 Refer: 319 776 N 1 0 0 1 560 0 2
 Refer: 108 73 N 1 0 0 1 0 0 3
@@ -20,5 +21,8 @@ Refer: 319 776 N 1 0 0 1 560 0 2
 Refer: 108 73 N 1 0 0 1 0 0 3
 Layer: 4
 Refer: 319 776 N 1 0 0 1 560 0 2
+Refer: 108 73 N 1 0 0 1 0 0 3
+Layer: 5
+Refer: 886 -1 N 1 0 0 1 0 0 2
 Refer: 108 73 N 1 0 0 1 0 0 3
 EndChar

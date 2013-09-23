@@ -3,10 +3,10 @@ StartChar: cedilla
 Encoding: 184 184 247
 Width: 560
 VWidth: 0
-Flags: W
-HStem: -360 50<177.563 382.437> -150 50<194 381.229>
-VStem: 90 60<-283.219 -230> 410 60<-284.155 -175.845>
-LayerCount: 5
+Flags: HW
+HStem: -370 60<180.808 379.192> -170 60<204 379.17>
+VStem: 80 80<-287.183 -240> 400 80<-287.81 -192.19>
+LayerCount: 6
 Fore
 Refer: 335 807 N 1 0 0 1 580 0 2
 Layer: 2
@@ -14,5 +14,7 @@ Refer: 335 807 N 1 0 0 1 580 0 2
 Layer: 3
 Refer: 335 807 N 1 0 0 1 580 0 2
 Layer: 4
+Refer: 335 807 N 1 0 0 1 580 0 2
+Layer: 5
 Refer: 335 807 N 1 0 0 1 580 0 2
 EndChar

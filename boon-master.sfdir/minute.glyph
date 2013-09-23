@@ -3,9 +3,9 @@ StartChar: minute
 Encoding: 8242 8242 871
 Width: 330
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 620 220
-LayerCount: 5
+LayerCount: 6
 Fore
 SplineSet
 270 840 m 5
@@ -37,5 +37,13 @@ SplineSet
  60 620 l 1
  106 620 l 5
  270 840 l 5
+EndSplineSet
+Layer: 5
+SplineSet
+280 840 m 5
+ 160 840 l 5
+ 50 620 l 5
+ 116 620 l 5
+ 280 840 l 5
 EndSplineSet
 EndChar

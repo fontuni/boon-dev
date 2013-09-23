@@ -3,10 +3,10 @@ StartChar: plus
 Encoding: 43 43 170
 Width: 560
 VWidth: 0
-Flags: W
-HStem: 295 50<90 250 310 470>
-VStem: 250 60<140 295 345 500>
-LayerCount: 5
+Flags: HW
+HStem: 285 70<80 240 320 480>
+VStem: 240 80<130 285 355 510>
+LayerCount: 6
 Fore
 SplineSet
 310 140 m 5
@@ -70,5 +70,21 @@ SplineSet
  470 295 l 1
  310 295 l 1
  310 140 l 5
+EndSplineSet
+Layer: 5
+SplineSet
+325 120 m 5
+ 235 120 l 1
+ 235 280 l 1
+ 70 280 l 1
+ 70 360 l 1
+ 235 360 l 1
+ 235 520 l 1
+ 325 520 l 5
+ 325 360 l 5
+ 490 360 l 1
+ 490 280 l 1
+ 325 280 l 5
+ 325 120 l 5
 EndSplineSet
 EndChar

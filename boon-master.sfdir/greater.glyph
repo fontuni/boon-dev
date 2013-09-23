@@ -3,9 +3,8 @@ StartChar: greater
 Encoding: 62 62 184
 Width: 600
 VWidth: 0
-Flags: W
-VStem: 110 380
-LayerCount: 5
+Flags: HW
+LayerCount: 6
 Fore
 Refer: 182 60 N -1 0 0 1 600 0 2
 Layer: 2
@@ -13,5 +12,7 @@ Refer: 182 60 N -1 0 0 1 600 0 2
 Layer: 3
 Refer: 182 60 N -1 0 0 1 600 0 2
 Layer: 4
+Refer: 182 60 N -1 0 0 1 600 0 2
+Layer: 5
 Refer: 182 60 N -1 0 0 1 600 0 2
 EndChar

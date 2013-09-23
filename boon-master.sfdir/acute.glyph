@@ -3,10 +3,10 @@ StartChar: acute
 Encoding: 180 180 208
 Width: 420
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 620 180
-VStem: 70 280
-LayerCount: 5
+VStem: 50 320
+LayerCount: 6
 Fore
 Refer: 191 96 N -1 0 0 1 420 0 2
 Layer: 2
@@ -14,5 +14,7 @@ Refer: 191 96 N -1 0 0 1 420 0 2
 Layer: 3
 Refer: 191 96 N -1 0 0 1 420 0 2
 Layer: 4
+Refer: 191 96 N -1 0 0 1 420 0 2
+Layer: 5
 Refer: 191 96 N -1 0 0 1 420 0 2
 EndChar

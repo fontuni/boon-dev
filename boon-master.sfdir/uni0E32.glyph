@@ -3,10 +3,10 @@ StartChar: uni0E32
 Encoding: 3634 3634 25
 Width: 550
 VWidth: 0
-Flags: W
-HStem: 0 21G<380 450> 560 60<166.05 323.95>
-VStem: 40 70<410 500.299> 380 70<0 500.299>
-LayerCount: 5
+Flags: HW
+HStem: 0 21G<360 460> 535 85<171.374 318.626>
+VStem: 30 100<400 492.172> 360 100<0 492.172>
+LayerCount: 6
 Fore
 SplineSet
 450 410 m 6
@@ -54,6 +54,18 @@ SplineSet
  40 410 l 5
  40 535 124 620 245 620 c 4
  366 620 450 535 450 410 c 6
+EndSplineSet
+Layer: 5
+SplineSet
+350 400 m 6
+ 350 462 329 525 250 525 c 4
+ 171 525 150 462 150 400 c 5
+ 30 400 l 5
+ 30 537 114 620 250 620 c 4
+ 386 620 470 537 470 400 c 6
+ 470 0 l 5
+ 350 0 l 5
+ 350 400 l 6
 EndSplineSet
 Substitution2: "Sara AA Substitute" uni0E45
 EndChar

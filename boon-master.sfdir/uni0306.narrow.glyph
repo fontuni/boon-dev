@@ -1,0 +1,19 @@
+
+StartChar: uni0306.narrow
+Encoding: 1114128 -1 885
+Width: 320
+VWidth: 0
+Flags: HW
+AnchorPoint: "diac_top" 160 850 mark 0
+LayerCount: 6
+Layer: 5
+SplineSet
+-20 1030 m 1
+ 70 1030 l 1
+ 70 986 96 940 160 940 c 0
+ 225 940 250 986 250 1030 c 1
+ 340 1030 l 1
+ 340 961 299 870 160 870 c 0
+ 21 870 -20 961 -20 1030 c 1
+EndSplineSet
+EndChar

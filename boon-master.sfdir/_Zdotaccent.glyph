@@ -3,10 +3,10 @@ StartChar: Zdotaccent
 Encoding: 379 379 474
 Width: 740
 VWidth: 0
-Flags: W
-HStem: 0 60<150 670> 740 60<100 570> 920 120<331.108 428.892>
-VStem: 320 120<931.108 1028.89>
-LayerCount: 5
+Flags: HW
+HStem: 0 100<200 680> 710 90<90 530> 920 140<325.875 434.125>
+VStem: 310 140<935.875 1044.13>
+LayerCount: 6
 Fore
 Refer: 318 775 N 1 0 0 1 790 0 2
 Refer: 130 90 N 1 0 0 1 0 0 3
@@ -18,5 +18,8 @@ Refer: 318 775 N 1 0 0 1 790 0 2
 Refer: 130 90 N 1 0 0 1 0 0 3
 Layer: 4
 Refer: 318 775 N 1 0 0 1 790 0 2
+Refer: 130 90 N 1 0 0 1 0 0 3
+Layer: 5
+Refer: 318 775 N 1 0 0 1 770 0 2
 Refer: 130 90 N 1 0 0 1 0 0 3
 EndChar

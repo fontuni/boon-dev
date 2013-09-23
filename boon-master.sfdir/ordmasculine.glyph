@@ -3,10 +3,10 @@ StartChar: ordmasculine
 Encoding: 186 186 228
 Width: 360
 VWidth: 0
-Flags: W
-HStem: 550 30<128.308 231.692> 840 30<130.959 229.041>
-VStem: 55 35<619.724 795.75> 270 35<619.724 795.75>
-LayerCount: 5
+Flags: HW
+HStem: 550 45<126.03 223.97> 827.5 42.5<127.553 222.447>
+VStem: 45 50<625.621 792.697> 255 50<625.621 792.697>
+LayerCount: 6
 Fore
 Refer: 106 111 N 0.5 0 0 0.5 10 560 2
 Layer: 2
@@ -14,5 +14,7 @@ Refer: 106 111 N 0.5 0 0 0.5 10 560 2
 Layer: 3
 Refer: 106 111 N 0.5 0 0 0.5 10 560 2
 Layer: 4
+Refer: 106 111 N 0.5 0 0 0.5 10 560 2
+Layer: 5
 Refer: 106 111 N 0.5 0 0 0.5 10 560 2
 EndChar

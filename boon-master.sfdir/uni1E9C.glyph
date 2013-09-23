@@ -1,12 +1,12 @@
 
 StartChar: uni1E9C
 Encoding: 7836 7836 848
-Width: 360
+Width: 390
 VWidth: 0
-Flags: W
-HStem: 0 21<120 190> 840 60<228.503 320>
-VStem: 10 330 120 70<0 801.811>
-LayerCount: 5
+Flags: HW
+HStem: 0 21<140 240> 520 80<30 140> 810 90<277.432 370>
+VStem: 140 100<0 520 600 775.608>
+LayerCount: 6
 Fore
 SplineSet
 10 380 m 1xe0
@@ -41,6 +41,15 @@ SplineSet
  340 610 l 5
  10 320 l 5
  10 380 l 1xe0
+EndSplineSet
+Refer: 345 383 N 1 0 0 1 0 0 3
+Layer: 5
+SplineSet
+0 320 m 5xb8
+ 350 610 l 5
+ 350 540 l 5
+ 0 250 l 5
+ 0 320 l 5xb8
 EndSplineSet
 Refer: 345 383 N 1 0 0 1 0 0 3
 EndChar

@@ -3,9 +3,10 @@ StartChar: Idotaccent
 Encoding: 304 304 423
 Width: 320
 VWidth: 0
-HStem: 0 21<125 195> 780 20<125 195> 920 120<111.108 208.892>
-VStem: 100 120<931.108 1028.89> 125 70<0 800>
-LayerCount: 5
+Flags: H
+HStem: 0 21<110 210> 780 20<110 210> 920 140<105.875 214.125>
+VStem: 90 140<935.875 1044.13> 110 100<0 800>
+LayerCount: 6
 Fore
 Refer: 318 775 N 1 0 0 1 570 0 2
 Refer: 108 73 N 1 0 0 1 0 0 3
@@ -17,5 +18,8 @@ Refer: 318 775 N 1 0 0 1 570 0 2
 Refer: 108 73 N 1 0 0 1 0 0 3
 Layer: 4
 Refer: 318 775 N 1 0 0 1 570 0 2
+Refer: 108 73 N 1 0 0 1 0 0 3
+Layer: 5
+Refer: 318 775 N 1 0 0 1 560 0 2
 Refer: 108 73 N 1 0 0 1 0 0 3
 EndChar

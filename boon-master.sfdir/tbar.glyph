@@ -3,10 +3,10 @@ StartChar: tbar
 Encoding: 359 359 838
 Width: 420
 VWidth: 0
-Flags: W
-HStem: 0 21<175 245> 320 50<40 380> 540 60<40 175 245 380>
-VStem: 40 340<320 370> 175 70<0 540 600 780>
-LayerCount: 5
+Flags: HW
+HStem: 0 21<160 260> 310 60<30 390> 520 80<30 160 260 390>
+VStem: 30 360<310 370> 160 100<0 520 600 780>
+LayerCount: 6
 Fore
 SplineSet
 40 370 m 1xf0
@@ -41,6 +41,15 @@ SplineSet
  380 320 l 5
  40 320 l 5
  40 370 l 1xf0
+EndSplineSet
+Refer: 155 116 N 1 0 0 1 0 0 2
+Layer: 5
+SplineSet
+30 370 m 5
+ 390 370 l 5
+ 390 310 l 5
+ 30 310 l 5
+ 30 370 l 5
 EndSplineSet
 Refer: 155 116 N 1 0 0 1 0 0 2
 EndChar

@@ -3,9 +3,9 @@ StartChar: uni2034
 Encoding: 8244 8244 873
 Width: 690
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 620 220
-LayerCount: 5
+LayerCount: 6
 Fore
 SplineSet
 640 840 m 1
@@ -75,6 +75,24 @@ SplineSet
 450 840 m 1
  360 840 l 5
  250 620 l 5
+ 286 620 l 1
+ 450 840 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+640 840 m 1
+ 540 840 l 1
+ 430 620 l 1
+ 476 620 l 1
+ 640 840 l 1
+260 840 m 1
+ 160 840 l 1
+ 50 620 l 1
+ 96 620 l 1
+ 260 840 l 1
+450 840 m 1
+ 350 840 l 1
+ 240 620 l 1
  286 620 l 1
  450 840 l 1
 EndSplineSet

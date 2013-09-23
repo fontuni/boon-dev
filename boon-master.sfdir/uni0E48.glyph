@@ -3,10 +3,10 @@ StartChar: uni0E48
 Encoding: 3656 3656 9
 Width: 0
 VWidth: 0
-Flags: W
-HStem: 1000 230
-VStem: -170 60<1040 1230>
-LayerCount: 5
+Flags: HW
+HStem: 990 250
+VStem: -180 80<1033 1240>
+LayerCount: 6
 Fore
 SplineSet
 -170 1230 m 5
@@ -17,19 +17,19 @@ SplineSet
 EndSplineSet
 Layer: 2
 SplineSet
--220 1240 m 1
- -100 1240 l 1
- -100 990 l 1
- -220 1033 l 1
- -220 1240 l 1
+-210 1240 m 5
+ -90 1240 l 5
+ -90 990 l 5
+ -210 1033 l 5
+ -210 1240 l 5
 EndSplineSet
 Layer: 3
 SplineSet
--200 1240 m 5
- -120 1240 l 5
- -120 990 l 5
- -200 1033 l 5
- -200 1240 l 5
+-180 1240 m 5
+ -100 1240 l 5
+ -100 990 l 5
+ -180 1033 l 5
+ -180 1240 l 5
 EndSplineSet
 Layer: 4
 SplineSet
@@ -39,8 +39,16 @@ SplineSet
  -170 1040 l 5
  -170 1230 l 5
 EndSplineSet
+Layer: 5
+SplineSet
+-180 1240 m 1
+ -90 1240 l 1
+ -90 990 l 1
+ -180 1030 l 1
+ -180 1240 l 1
+EndSplineSet
 Position2: "Nikhahit & Tone High-Left" dx=-240 dy=0 dh=0 dv=0
 Position2: "Mai Han-Akat & Tone High-Left" dx=-300 dy=0 dh=0 dv=0
-Position2: "Tone High-Left" dx=-200 dy=0 dh=0 dv=0
+Position2: "Tone High-Left" dx=-180 dy=0 dh=0 dv=0
 MultipleSubs2: "Tone High-Low" uni0E48.low
 EndChar

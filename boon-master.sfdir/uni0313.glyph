@@ -3,10 +3,11 @@ StartChar: uni0313
 Encoding: 787 787 327
 Width: 0
 VWidth: 0
-Flags: W
-HStem: 1010 120<-433.892 -380.369>
-VStem: -445 125<1022.97 1116.96>
-LayerCount: 5
+Flags: HW
+HStem: 860 290
+VStem: -390 80<956.795 1010>
+AnchorPoint: "diac_top" -400 850 mark 0
+LayerCount: 6
 Fore
 SplineSet
 -380 1010 m 1
@@ -48,5 +49,15 @@ SplineSet
  -320 977 -364 914 -425 860 c 1
  -460 860 l 1
  -401 917 -383 961 -380 1010 c 1
+EndSplineSet
+Layer: 5
+SplineSet
+-370 1190 m 0
+ -316 1190 -280 1148 -280 1090 c 0
+ -280 1012 -340 923 -400 880 c 1
+ -460 880 l 5
+ -410 923 -370 975 -370 1030 c 1
+ -416 1030 -450 1065 -450 1110 c 0
+ -450 1155 -416 1190 -370 1190 c 0
 EndSplineSet
 EndChar

@@ -3,14 +3,14 @@ StartChar: D
 Encoding: 68 68 115
 Width: 780
 VWidth: 0
-Flags: W
-HStem: 0 60<180 498.408> 740 60<180 469.135>
-VStem: 110 70<60 740> 630 70<188.082 586.644>
-AnchorPoint: "ogonek" 377.004 40 basechar 0
-AnchorPoint: "cedilla" 377.004 40 basechar 0
+Flags: HW
+HStem: 0 90<200 488.105> 715 85<200 477.313>
+VStem: 100 100<90 715> 610 100<207.83 586.644>
+AnchorPoint: "diac_top" 350 850 basechar 0
+AnchorPoint: "ogonek" 370 40 basechar 0
+AnchorPoint: "cedilla" 370 40 basechar 0
 AnchorPoint: "diac_bottom" 338.744 -50 basechar 0
-AnchorPoint: "diac_top" 721.346 850 basechar 0
-LayerCount: 5
+LayerCount: 6
 Fore
 SplineSet
 320 740 m 2
@@ -78,5 +78,22 @@ SplineSet
  576 800 700 684 700 450 c 2
  700 330 l 2
  700 97 592 0 350 0 c 2
+EndSplineSet
+Layer: 5
+SplineSet
+320 800 m 2
+ 591 800 720 684 720 450 c 2
+ 720 330 l 2
+ 720 101 601 0 360 0 c 2
+ 90 0 l 1
+ 90 800 l 1
+ 320 800 l 2
+300 705 m 2
+ 210 705 l 1
+ 210 100 l 1
+ 340 100 l 2
+ 479 100 600 153 600 330 c 2
+ 600 450 l 2
+ 600 629 511 705 300 705 c 2
 EndSplineSet
 EndChar

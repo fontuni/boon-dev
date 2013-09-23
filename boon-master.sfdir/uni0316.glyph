@@ -3,10 +3,10 @@ StartChar: uni0316
 Encoding: 790 790 329
 Width: 0
 VWidth: 0
-Flags: W
-HStem: -240 120
-VStem: -600 320
-LayerCount: 5
+Flags: HW
+HStem: -260 160
+VStem: -590 300
+LayerCount: 6
 Fore
 Refer: 312 768 S 1 0 0 1 0 -1150 2
 Layer: 2
@@ -20,5 +20,7 @@ EndSplineSet
 Layer: 3
 Refer: 312 768 S 1 0 0 1 0 -1150 2
 Layer: 4
+Refer: 312 768 S 1 0 0 1 0 -1150 2
+Layer: 5
 Refer: 312 768 S 1 0 0 1 0 -1150 2
 EndChar

@@ -3,11 +3,11 @@ StartChar: uni018E
 Encoding: 398 398 845
 Width: 670
 VWidth: 0
-Flags: W
-HStem: 0 60<80 490> 370 60<120 490> 740 60<90 490>
-VStem: 490 70<60 370 430 740>
+Flags: HW
+HStem: 0 90<70 470> 355 90<110 470> 710 90<80 470>
+VStem: 470 100<90 355 445 710>
 CounterMasks: 1 e0
-LayerCount: 5
+LayerCount: 6
 Fore
 Refer: 116 69 S -1 0 0 1 670 0 2
 Layer: 2
@@ -15,5 +15,7 @@ Refer: 116 69 S -1 0 0 1 670 0 2
 Layer: 3
 Refer: 116 69 S -1 0 0 1 670 0 2
 Layer: 4
+Refer: 116 69 S -1 0 0 1 670 0 2
+Layer: 5
 Refer: 116 69 S -1 0 0 1 670 0 2
 EndChar

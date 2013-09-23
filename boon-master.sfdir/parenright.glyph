@@ -3,9 +3,9 @@ StartChar: parenright
 Encoding: 41 41 169
 Width: 400
 VWidth: 0
-Flags: W
-VStem: 240 60<73.2715 646.729>
-LayerCount: 5
+Flags: HW
+VStem: 220 90<71.4651 648.535>
+LayerCount: 6
 Fore
 Refer: 168 40 N -1 0 0 1 400 0 2
 Layer: 2
@@ -13,5 +13,7 @@ Refer: 168 40 N -1 0 0 1 400 0 2
 Layer: 3
 Refer: 168 40 N -1 0 0 1 400 0 2
 Layer: 4
+Refer: 168 40 N -1 0 0 1 400 0 2
+Layer: 5
 Refer: 168 40 N -1 0 0 1 400 0 2
 EndChar

@@ -3,10 +3,11 @@ StartChar: ogonek
 Encoding: 731 731 361
 Width: 480
 VWidth: 0
-Flags: W
-HStem: -340 50<168.904 311.096>
-VStem: 90 60<-272.187 -154.777> 220 50<-62.3714 20> 330 60<-272.056 -210>
-LayerCount: 5
+Flags: HW
+HStem: -340 60<176.557 303.443>
+VStem: 80 80<-263.918 -152.044> 210 60<-65.4375 20> 320 80<-263.587 -210>
+CounterMasks: 1 70
+LayerCount: 6
 Fore
 Refer: 336 808 N 1 0 0 1 580 0 2
 Layer: 2
@@ -14,5 +15,7 @@ Refer: 336 808 N 1 0 0 1 580 0 2
 Layer: 3
 Refer: 336 808 N 1 0 0 1 580 0 2
 Layer: 4
+Refer: 336 808 N 1 0 0 1 580 0 2
+Layer: 5
 Refer: 336 808 N 1 0 0 1 580 0 2
 EndChar

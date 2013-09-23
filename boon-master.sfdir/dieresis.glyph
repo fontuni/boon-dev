@@ -3,10 +3,10 @@ StartChar: dieresis
 Encoding: 168 168 262
 Width: 680
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 650 140<155.875 264.125 415.875 524.125>
 VStem: 140 140<665.875 774.125> 400 140<665.875 774.125>
-LayerCount: 5
+LayerCount: 6
 Fore
 SplineSet
 280 720 m 4
@@ -47,6 +47,19 @@ SplineSet
  509 790 540 759 540 720 c 4
 EndSplineSet
 Layer: 4
+SplineSet
+280 720 m 4
+ 280 681 249 650 210 650 c 4
+ 171 650 140 681 140 720 c 4
+ 140 759 171 790 210 790 c 4
+ 249 790 280 759 280 720 c 4
+540 720 m 4
+ 540 681 509 650 470 650 c 4
+ 431 650 400 681 400 720 c 4
+ 400 759 431 790 470 790 c 4
+ 509 790 540 759 540 720 c 4
+EndSplineSet
+Layer: 5
 SplineSet
 280 720 m 4
  280 681 249 650 210 650 c 4

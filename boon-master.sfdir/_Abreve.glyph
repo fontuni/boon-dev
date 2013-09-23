@@ -3,11 +3,12 @@ StartChar: Abreve
 Encoding: 258 258 384
 Width: 800
 VWidth: 0
-HStem: 0 21<40 127.889 672.111 760> 180 60<214 586> 780 20<356.875 443.125> 870 50<313.127 486.873>
-VStem: 210 60<962.316 1030> 530 60<962.316 1030>
-AnchorPoint: "diac_top" 846.369 1050 basechar 0
-AnchorPoint: "hook_above" 833.615 1020 basechar 0
-LayerCount: 5
+Flags: H
+HStem: 0 21<30 147.758 652.242 770> 165 90<239 561> 780 20<342 458> 870 60<315.389 484.611>
+VStem: 200 80<965.687 1030> 520 80<965.687 1030>
+AnchorPoint: "hook_above" 400 1030 basechar 0
+AnchorPoint: "diac_top" 400 1030 basechar 0
+LayerCount: 6
 Fore
 Refer: 317 774 N 1 0 0 1 800 0 2
 Refer: 128 65 N 1 0 0 1 0 0 3
@@ -18,6 +19,9 @@ Layer: 3
 Refer: 317 774 N 1 0 0 1 800 0 2
 Refer: 128 65 N 1 0 0 1 0 0 3
 Layer: 4
+Refer: 317 774 N 1 0 0 1 800 0 2
+Refer: 128 65 N 1 0 0 1 0 0 3
+Layer: 5
 Refer: 317 774 N 1 0 0 1 800 0 2
 Refer: 128 65 N 1 0 0 1 0 0 3
 EndChar

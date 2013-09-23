@@ -3,11 +3,11 @@ StartChar: uni0330
 Encoding: 816 816 341
 Width: 0
 VWidth: 0
-Flags: W
-HStem: -230 50<-373.157 -273.616> -150 50<-526.384 -426.843>
-VStem: -590 40<-213.15 -182.093> -250 40<-147.907 -116.85>
+Flags: HW
+HStem: -240 60<-369.502 -267.593> -160 60<-532.407 -430.498>
+VStem: -600 45<-222.8 -188.66> -245 45<-151.34 -117.2>
 AnchorPoint: "diac_bottom" -421.256 -50 mark 0
-LayerCount: 5
+LayerCount: 6
 Fore
 Refer: 314 771 S 1 0 0 1 0 -1130 2
 Layer: 2
@@ -27,5 +27,7 @@ EndSplineSet
 Layer: 3
 Refer: 314 771 S 1 0 0 1 0 -1130 2
 Layer: 4
+Refer: 314 771 S 1 0 0 1 0 -1130 2
+Layer: 5
 Refer: 314 771 S 1 0 0 1 0 -1130 2
 EndChar

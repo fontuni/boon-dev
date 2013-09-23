@@ -3,10 +3,10 @@ StartChar: uni0E3A
 Encoding: 3642 3642 60
 Width: 0
 VWidth: 0
-Flags: W
-HStem: -200 120<-199.98 -100.02>
-VStem: -210 120<-189.98 -90.0195>
-LayerCount: 5
+Flags: HW
+HStem: -210 140<-204.125 -95.8748>
+VStem: -220 140<-194.125 -85.8748>
+LayerCount: 6
 Fore
 SplineSet
 -90 -140 m 0
@@ -38,6 +38,14 @@ SplineSet
  -184 -200 -210 -174 -210 -140 c 0
  -210 -106 -184 -80 -150 -80 c 0
  -116 -80 -90 -106 -90 -140 c 0
+EndSplineSet
+Layer: 5
+SplineSet
+-90 -145 m 4
+ -90 -187 -123 -220 -165 -220 c 4
+ -207 -220 -240 -187 -240 -145 c 4
+ -240 -103 -207 -70 -165 -70 c 4
+ -123 -70 -90 -103 -90 -145 c 4
 EndSplineSet
 Position2: "Vowel Below-Low" dx=0 dy=-200 dh=0 dv=0
 EndChar

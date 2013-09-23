@@ -3,15 +3,13 @@ StartChar: Eth
 Encoding: 208 208 347
 Width: 810
 VWidth: 0
-Flags: W
-HStem: 0 60<210 528.408> 375 50<40 440> 740 60<210 499.135>
-VStem: 140 70<60 740> 660 70<188.082 586.644>
-CounterMasks: 1 e0
-AnchorPoint: "diac_top" 721.346 850 basechar 0
+Flags: HW
+HStem: 0 90<230 518.105> 370 60<30 460> 715 85<230 507.313>
+VStem: 130 100<90 715> 640 100<207.83 586.644>
 AnchorPoint: "diac_bottom" 338.744 -50 basechar 0
 AnchorPoint: "cedilla" 377.004 40 basechar 0
 AnchorPoint: "ogonek" 377.004 40 basechar 0
-LayerCount: 5
+LayerCount: 6
 Fore
 SplineSet
 40 425 m 1
@@ -46,6 +44,15 @@ SplineSet
  440 375 l 5
  40 375 l 1
  40 425 l 1
+EndSplineSet
+Refer: 115 68 N 1 0 0 1 30 0 2
+Layer: 5
+SplineSet
+30 435 m 5
+ 460 435 l 5
+ 460 365 l 1
+ 30 365 l 1
+ 30 435 l 5
 EndSplineSet
 Refer: 115 68 N 1 0 0 1 30 0 2
 EndChar

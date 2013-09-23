@@ -6,11 +6,11 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<125 195> 580 20G<125 195>
 VStem: 125 70<0 600>
-AnchorPoint: "hook_above" 449.076 680 basechar 0
-AnchorPoint: "ogonek" 177.004 40 basechar 0
-AnchorPoint: "diac_top" 436.324 650 basechar 0
-AnchorPoint: "diac_bottom" 138.744 -50 basechar 0
-LayerCount: 5
+AnchorPoint: "hook_above" 160 680 basechar 0
+AnchorPoint: "diac_top" 160 650 basechar 0
+AnchorPoint: "ogonek" 170 40 basechar 0
+AnchorPoint: "diac_bottom" 160 -50 basechar 0
+LayerCount: 6
 Fore
 SplineSet
 125 600 m 1
@@ -42,5 +42,13 @@ SplineSet
  195 0 l 5
  125 0 l 1
  125 600 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+100 600 m 1
+ 220 600 l 1
+ 220 0 l 1
+ 100 0 l 1
+ 100 600 l 1
 EndSplineSet
 EndChar

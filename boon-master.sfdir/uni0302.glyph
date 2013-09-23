@@ -3,11 +3,10 @@ StartChar: uni0302
 Encoding: 770 770 313
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 890 160
-VStem: -590 380
-AnchorPoint: "diac_top" -38.6543 850 mark 0
-LayerCount: 5
+AnchorPoint: "diac_top" -400 850 mark 0
+LayerCount: 6
 Fore
 SplineSet
 -510 890 m 5
@@ -54,4 +53,17 @@ SplineSet
  -400 1009 l 1
  -510 890 l 5
 EndSplineSet
+Layer: 5
+SplineSet
+-500 880 m 1
+ -630 880 l 1
+ -445 1030 l 1
+ -355 1030 l 1
+ -170 880 l 1
+ -300 880 l 1
+ -400 980 l 1
+ -500 880 l 1
+EndSplineSet
+Substitution2: "Latin Diacritic Substitution-1" uni0302.narrow
+Substitution2: "Latin Diacritic Substitution-1" uni0302.narrow
 EndChar

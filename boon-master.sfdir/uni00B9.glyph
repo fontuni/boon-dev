@@ -2,10 +2,10 @@
 StartChar: uni00B9
 Encoding: 185 185 227
 Width: 290
-Flags: W
-HStem: 560 10.5<185 220> 835 30<50 106.588> 950 10<185 220>
-VStem: 185 35<560 890 925.328 960>
-LayerCount: 5
+Flags: HW
+HStem: 560 10.5<175 225> 822.5 47.5<45 103.578> 950 10<175 225>
+VStem: 175 50<560 875 926.109 960>
+LayerCount: 6
 Fore
 Refer: 173 49 N 0.5 0 0 0.5 -10 560 2
 Layer: 2
@@ -13,5 +13,7 @@ Refer: 173 49 N 0.5 0 0 0.5 -10 560 2
 Layer: 3
 Refer: 173 49 N 0.5 0 0 0.5 -10 560 2
 Layer: 4
+Refer: 173 49 N 0.5 0 0 0.5 -10 560 2
+Layer: 5
 Refer: 173 49 N 0.5 0 0 0.5 -10 560 2
 EndChar

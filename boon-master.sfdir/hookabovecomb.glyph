@@ -3,11 +3,11 @@ StartChar: hookabovecomb
 Encoding: 777 777 320
 Width: 0
 VWidth: 0
-Flags: W
-HStem: 1060 50<-457.026 -322.62>
-VStem: -530 60<1000 1045.62> -430 60<880 909.799> -310 60<962.958 1047.88>
-AnchorPoint: "hook_above" -18.6543 850 mark 0
-LayerCount: 5
+Flags: HW
+HStem: 1055 55<-456.379 -323.278>
+VStem: -540 70<995 1039.1> -440 80<870 900.128> -310 70<958.012 1039.58>
+AnchorPoint: "hook_above" -400 850 mark 0
+LayerCount: 6
 Fore
 SplineSet
 -310 1000 m 4
@@ -55,5 +55,17 @@ SplineSet
  -250 906 -370 931 -370 880 c 5
  -430 880 l 5
  -430 957 -310 939 -310 1000 c 4
+EndSplineSet
+Layer: 5
+SplineSet
+-330 945 m 0
+ -330 970 -345 990 -390 990 c 0
+ -434 990 -450 970 -450 945 c 1
+ -530 945 l 1
+ -530 991 -492 1050 -390 1050 c 4
+ -287 1050 -250 991 -250 945 c 0
+ -250 891 -360 881 -360 840 c 1
+ -440 840 l 1
+ -440 907 -330 914 -330 945 c 0
 EndSplineSet
 EndChar

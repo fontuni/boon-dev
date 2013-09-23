@@ -3,15 +3,13 @@ StartChar: uni0189
 Encoding: 393 393 841
 Width: 810
 VWidth: 0
-Flags: W
-HStem: 0 60<210 528.408> 375 50<40 440> 740 60<210 499.135>
-VStem: 140 70<60 740> 660 70<188.082 586.644>
-CounterMasks: 1 e0
+Flags: HW
+HStem: 0 90<230 518.105> 370 60<30 460> 715 85<230 507.313>
+VStem: 130 100<90 715> 640 100<207.83 586.644>
 AnchorPoint: "ogonek" 377.004 40 basechar 0
 AnchorPoint: "cedilla" 377.004 40 basechar 0
 AnchorPoint: "diac_bottom" 338.744 -50 basechar 0
-AnchorPoint: "diac_top" 721.346 850 basechar 0
-LayerCount: 5
+LayerCount: 6
 Fore
 Refer: 347 208 N 1 0 0 1 0 0 2
 Layer: 2
@@ -19,5 +17,7 @@ Refer: 347 208 N 1 0 0 1 0 0 2
 Layer: 3
 Refer: 347 208 N 1 0 0 1 0 0 2
 Layer: 4
+Refer: 347 208 N 1 0 0 1 0 0 2
+Layer: 5
 Refer: 347 208 N 1 0 0 1 0 0 2
 EndChar

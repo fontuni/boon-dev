@@ -3,10 +3,10 @@ StartChar: bullet
 Encoding: 8226 8226 231
 Width: 440
 VWidth: 0
-Flags: W
-HStem: 200 220<149.927 290.073>
-VStem: 110 220<239.927 380.073>
-LayerCount: 5
+Flags: HW
+HStem: 180 260<142.132 297.868>
+VStem: 90 260<232.132 387.868>
+LayerCount: 6
 Fore
 SplineSet
 330 310 m 0
@@ -38,5 +38,13 @@ SplineSet
  159 200 110 249 110 310 c 0
  110 371 159 420 220 420 c 0
  281 420 330 371 330 310 c 0
+EndSplineSet
+Layer: 5
+SplineSet
+350 310 m 4
+ 350 238 292 180 220 180 c 4
+ 148 180 90 238 90 310 c 4
+ 90 382 148 440 220 440 c 4
+ 292 440 350 382 350 310 c 4
 EndSplineSet
 EndChar

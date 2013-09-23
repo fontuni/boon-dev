@@ -3,10 +3,10 @@ StartChar: Hcircumflex
 Encoding: 292 292 656
 Width: 800
 VWidth: 0
-HStem: 0 21<110 180 620 690> 370 60<180 620> 780 20<110 180 620 690> 890 160
-VStem: 110 70<0 370 430 800> 210 380 620 70<0 370 430 800>
-CounterMasks: 1 0e
-LayerCount: 5
+Flags: H
+HStem: 0 21<100 200 600 700> 355 90<200 600> 780 20<100 200 600 700> 890 160
+VStem: 100 100<0 355 445 800> 600 100<0 355 445 800>
+LayerCount: 6
 Fore
 Refer: 313 770 N 1 0 0 1 800 0 2
 Refer: 110 72 N 1 0 0 1 0 0 3
@@ -17,6 +17,9 @@ Layer: 3
 Refer: 313 770 N 1 0 0 1 800 0 2
 Refer: 110 72 N 1 0 0 1 0 0 3
 Layer: 4
+Refer: 313 770 N 1 0 0 1 800 0 2
+Refer: 110 72 N 1 0 0 1 0 0 3
+Layer: 5
 Refer: 313 770 N 1 0 0 1 800 0 2
 Refer: 110 72 N 1 0 0 1 0 0 3
 EndChar

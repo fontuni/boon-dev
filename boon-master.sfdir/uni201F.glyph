@@ -3,10 +3,10 @@ StartChar: uni201F
 Encoding: 8223 8223 866
 Width: 520
 VWidth: 0
-Flags: W
-HStem: 700 120<155.369 208.892 355.369 408.892>
-VStem: 95 125<712.967 806.96> 295 125<712.967 806.96>
-LayerCount: 5
+Flags: HW
+HStem: 550 290
+VStem: 80 80<646.795 700> 290 80<646.795 700>
+LayerCount: 6
 Fore
 Refer: 196 8221 S -1 0 0 1 520 0 2
 Layer: 2
@@ -14,5 +14,7 @@ Refer: 196 8221 S -1 0 0 1 520 0 2
 Layer: 3
 Refer: 196 8221 S -1 0 0 1 520 0 2
 Layer: 4
+Refer: 196 8221 S -1 0 0 1 520 0 2
+Layer: 5
 Refer: 196 8221 S -1 0 0 1 520 0 2
 EndChar

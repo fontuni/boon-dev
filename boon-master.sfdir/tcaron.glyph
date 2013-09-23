@@ -3,10 +3,10 @@ StartChar: tcaron
 Encoding: 357 357 456
 Width: 680
 VWidth: 0
-Flags: W
-HStem: 0 21<175 245> 540 60<40 175 245 380> 700 120<476.108 529.631>
-VStem: 175 70<0 540 600 780> 465 125<712.967 806.96>
-LayerCount: 5
+Flags: HW
+HStem: 0 21<160 260> 520 80<30 160 260 390> 550 290
+VStem: 160 100<0 520 600 780> 520 80<646.795 700>
+LayerCount: 6
 Fore
 Refer: 645 789 N 1 0 0 1 550 -310 2
 Refer: 155 116 N 1 0 0 1 0 0 2
@@ -17,6 +17,9 @@ Layer: 3
 Refer: 645 789 N 1 0 0 1 550 -310 2
 Refer: 155 116 N 1 0 0 1 0 0 2
 Layer: 4
+Refer: 645 789 N 1 0 0 1 550 -310 2
+Refer: 155 116 N 1 0 0 1 0 0 2
+Layer: 5
 Refer: 645 789 N 1 0 0 1 550 -310 2
 Refer: 155 116 N 1 0 0 1 0 0 2
 EndChar

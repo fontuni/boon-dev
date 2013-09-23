@@ -3,10 +3,10 @@ StartChar: twodotenleader
 Encoding: 8229 8229 869
 Width: 590
 VWidth: 0
-Flags: W
-HStem: 250 120<111.108 208.892 381.108 478.892>
-VStem: 100 120<261.108 358.892> 370 120<261.108 358.892>
-LayerCount: 5
+Flags: HW
+HStem: 240 140<105.875 214.125 375.875 484.125>
+VStem: 90 140<255.875 364.125> 360 140<255.875 364.125>
+LayerCount: 6
 Fore
 Refer: 226 183 S 1 0 0 1 270 0 2
 Refer: 226 183 N 1 0 0 1 0 0 2
@@ -17,6 +17,9 @@ Layer: 3
 Refer: 226 183 S 1 0 0 1 270 0 2
 Refer: 226 183 N 1 0 0 1 0 0 2
 Layer: 4
+Refer: 226 183 S 1 0 0 1 270 0 2
+Refer: 226 183 N 1 0 0 1 0 0 2
+Layer: 5
 Refer: 226 183 S 1 0 0 1 270 0 2
 Refer: 226 183 N 1 0 0 1 0 0 2
 EndChar

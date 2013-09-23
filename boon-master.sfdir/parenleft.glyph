@@ -3,9 +3,9 @@ StartChar: parenleft
 Encoding: 40 40 168
 Width: 400
 VWidth: 0
-Flags: W
-VStem: 100 60<73.2715 646.729>
-LayerCount: 5
+Flags: HW
+VStem: 90 90<71.4651 648.535>
+LayerCount: 6
 Fore
 SplineSet
 100 360 m 1
@@ -22,8 +22,8 @@ SplineSet
 EndSplineSet
 Layer: 2
 SplineSet
-60 360 m 1
- 60 390 l 2
+60 360 m 5
+ 60 390 l 6
  60 706 160 848 360 920 c 1
  360 855 l 1
  223 769 190 667 190 390 c 2
@@ -31,8 +31,8 @@ SplineSet
  190 330 l 2
  190 53 223 -49 360 -135 c 1
  360 -200 l 1
- 160 -128 60 14 60 330 c 2
- 60 360 l 1
+ 160 -128 60 14 60 330 c 6
+ 60 360 l 5
 EndSplineSet
 Layer: 3
 SplineSet
@@ -61,5 +61,19 @@ SplineSet
  350 -200 l 1
  150 -128 100 14 100 330 c 2
  100 360 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+80 360 m 1
+ 80 390 l 2
+ 80 706 160 848 360 920 c 1
+ 360 870 l 1
+ 208 794 180 667 180 390 c 6
+ 180 360 l 5
+ 180 330 l 6
+ 180 53 208 -74 360 -150 c 1
+ 360 -200 l 1
+ 160 -128 80 14 80 330 c 2
+ 80 360 l 1
 EndSplineSet
 EndChar

@@ -3,10 +3,10 @@ StartChar: bracketright
 Encoding: 93 93 188
 Width: 400
 VWidth: 0
-Flags: W
-HStem: -180 50<80 240> 850 50<80 240>
-VStem: 240 60<-130 850>
-LayerCount: 5
+Flags: HW
+HStem: -180 70<70 230> 830 70<70 230>
+VStem: 70 240<-180 -110 830 900> 230 80<-110 830>
+LayerCount: 6
 Fore
 Refer: 187 91 N -1 0 0 1 400 0 2
 Layer: 2
@@ -14,5 +14,7 @@ Refer: 187 91 N -1 0 0 1 400 0 2
 Layer: 3
 Refer: 187 91 N -1 0 0 1 400 0 2
 Layer: 4
+Refer: 187 91 N -1 0 0 1 400 0 2
+Layer: 5
 Refer: 187 91 N -1 0 0 1 400 0 2
 EndChar

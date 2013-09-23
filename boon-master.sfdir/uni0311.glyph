@@ -3,11 +3,11 @@ StartChar: uni0311
 Encoding: 785 785 325
 Width: 0
 VWidth: 0
-Flags: W
-HStem: 980 50<-486.873 -313.127>
-VStem: -590 60<870 937.684> -270 60<870 937.684>
-AnchorPoint: "diac_top" -38.6543 850 mark 0
-LayerCount: 5
+Flags: HW
+HStem: 970 60<-484.611 -315.389>
+VStem: -600 80<870 934.313> -280 80<870 934.313>
+AnchorPoint: "diac_top" -400 850 mark 0
+LayerCount: 6
 Fore
 Refer: 317 774 N 1 0 0 -1 0 1900 2
 Layer: 2
@@ -15,5 +15,7 @@ Refer: 317 774 N 1 0 0 -1 0 1900 2
 Layer: 3
 Refer: 317 774 N 1 0 0 -1 0 1900 2
 Layer: 4
+Refer: 317 774 N 1 0 0 -1 0 1900 2
+Layer: 5
 Refer: 317 774 N 1 0 0 -1 0 1900 2
 EndChar

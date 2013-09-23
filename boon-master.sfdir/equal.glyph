@@ -3,10 +3,9 @@ StartChar: equal
 Encoding: 61 61 183
 Width: 560
 VWidth: 0
-Flags: W
-HStem: 190 50<90 470> 400 50<90 470>
-VStem: 90 380<190 240 400 450>
-LayerCount: 5
+Flags: HW
+HStem: 180 70<80 480> 390 70<80 480>
+LayerCount: 6
 Fore
 Refer: 157 45 N 1 0 0 1 0 105 2
 Refer: 157 45 S 1 0 0 1 0 -105 2
@@ -17,6 +16,9 @@ Layer: 3
 Refer: 157 45 N 1 0 0 1 0 105 2
 Refer: 157 45 S 1 0 0 1 0 -105 2
 Layer: 4
+Refer: 157 45 N 1 0 0 1 0 105 2
+Refer: 157 45 S 1 0 0 1 0 -105 2
+Layer: 5
 Refer: 157 45 N 1 0 0 1 0 105 2
 Refer: 157 45 S 1 0 0 1 0 -105 2
 EndChar

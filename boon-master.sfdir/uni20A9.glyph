@@ -3,9 +3,9 @@ StartChar: uni20A9
 Encoding: 8361 8361 257
 Width: 1160
 VWidth: 0
-Flags: W
-HStem: 0 21<304 395.621 764.379 856> 410 50<40 1120> 630 50<40 1120> 780 20<70 155.755 539.388 620.612 1004.24 1090>
-LayerCount: 5
+Flags: HW
+HStem: 0 21<294 405.625 754.375 866> 400 60<30 1130> 620 60<30 1130> 780 20<60 175.609 529.361 630.639 984.391 1100>
+LayerCount: 6
 Fore
 SplineSet
 40 680 m 5
@@ -62,6 +62,20 @@ SplineSet
  1120 410 l 1
  40 410 l 5
  40 460 l 5
+EndSplineSet
+Refer: 131 87 N 1 0 0 1 30 0 2
+Layer: 5
+SplineSet
+20 690 m 5
+ 1140 690 l 5
+ 1140 620 l 5
+ 20 620 l 5
+ 20 690 l 5
+20 470 m 5
+ 1140 470 l 5
+ 1140 400 l 5
+ 20 400 l 5
+ 20 470 l 5
 EndSplineSet
 Refer: 131 87 N 1 0 0 1 30 0 2
 EndChar

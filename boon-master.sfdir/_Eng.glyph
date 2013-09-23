@@ -3,10 +3,10 @@ StartChar: Eng
 Encoding: 330 330 836
 Width: 800
 VWidth: 0
-Flags: W
-HStem: -290 60<490 581.497> -20 20<620 690> 0 21<110 180 607.246 690> 780 20<110 192.754 620 690>
-VStem: 110 70<0 690> 620 70<-191.811 0 110 800>
-LayerCount: 5
+Flags: HW
+HStem: -290 90<470 562.568> -20 20G<600 700> 0 21<100 200 587.302 700> 780 20<100 212.698 600 700>
+VStem: 100 100<0 630> 600 100<-165.608 0 170 800>
+LayerCount: 6
 Fore
 Refer: 852 801 S 1 0 0 1 790 0 2
 Refer: 121 78 N 1 0 0 1 0 0 2
@@ -33,6 +33,9 @@ SplineSet
 EndSplineSet
 Refer: 121 78 N 1 0 0 1 0 0 2
 Layer: 4
+Refer: 852 801 S 1 0 0 1 790 0 2
+Refer: 121 78 N 1 0 0 1 0 0 2
+Layer: 5
 Refer: 852 801 S 1 0 0 1 790 0 2
 Refer: 121 78 N 1 0 0 1 0 0 2
 EndChar

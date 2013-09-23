@@ -3,12 +3,11 @@ StartChar: lslash
 Encoding: 322 322 832
 Width: 350
 VWidth: 0
-Flags: W
-HStem: -10 60<205.547 250> 880 20<130 200>
-VStem: 10 330 130 70<54.2052 900>
+Flags: HW
+HStem: -10 90<215.698 260> 880 20<110 210>
+VStem: 0 350 110 100<86.5698 900>
 AnchorPoint: "diac_bottom" 148.744 -50 basechar 0
-AnchorPoint: "diac_top" 545.355 930 basechar 0
-LayerCount: 5
+LayerCount: 6
 Fore
 SplineSet
 10 380 m 1xe0
@@ -43,6 +42,15 @@ SplineSet
  340 610 l 5
  10 320 l 5
  10 380 l 1xe0
+EndSplineSet
+Refer: 138 108 N 1 0 0 1 0 0 2
+Layer: 5
+SplineSet
+0 380 m 5xe0
+ 350 670 l 5
+ 350 600 l 5
+ 0 310 l 5
+ 0 380 l 5xe0
 EndSplineSet
 Refer: 138 108 N 1 0 0 1 0 0 2
 EndChar

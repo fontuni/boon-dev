@@ -3,13 +3,13 @@ StartChar: T
 Encoding: 84 84 120
 Width: 580
 VWidth: 0
-Flags: W
-HStem: 0 21G<255 325> 740 60<60 255 325 520>
-VStem: 255 70<0 740>
-AnchorPoint: "cedilla" 297.004 40 basechar 0
-AnchorPoint: "diac_bottom" 268.744 -50 basechar 0
-AnchorPoint: "diac_top" 651.346 850 basechar 0
-LayerCount: 5
+Flags: HW
+HStem: 0 21G<240 340> 710 90<50 240 340 530>
+VStem: 240 100<0 710>
+AnchorPoint: "diac_top" 290 850 basechar 0
+AnchorPoint: "cedilla" 280 40 basechar 0
+AnchorPoint: "diac_bottom" 290 -50 basechar 0
+LayerCount: 6
 Fore
 SplineSet
 60 740 m 1
@@ -65,5 +65,19 @@ SplineSet
  255 0 l 1
  255 740 l 1
  60 740 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+40 700 m 5
+ 40 800 l 5
+ 230 800 l 5
+ 350 800 l 1
+ 540 800 l 1
+ 540 700 l 1
+ 350 700 l 1
+ 350 0 l 1
+ 230 0 l 5
+ 230 700 l 5
+ 40 700 l 5
 EndSplineSet
 EndChar

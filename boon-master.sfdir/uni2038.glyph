@@ -3,10 +3,9 @@ StartChar: uni2038
 Encoding: 8248 8248 877
 Width: 540
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 560 240
-VStem: 80 380
-LayerCount: 5
+LayerCount: 6
 Fore
 Refer: 189 94 N 1 0 0 1 0 0 2
 Layer: 2
@@ -14,5 +13,7 @@ Refer: 189 94 N 1 0 0 1 0 0 2
 Layer: 3
 Refer: 189 94 N 1 0 0 1 0 0 2
 Layer: 4
+Refer: 189 94 N 1 0 0 1 0 0 2
+Layer: 5
 Refer: 189 94 N 1 0 0 1 0 0 2
 EndChar

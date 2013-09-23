@@ -3,9 +3,9 @@ StartChar: afii00208
 Encoding: 8213 8213 219
 Width: 970
 VWidth: 0
-Flags: W
-HStem: 295 50<100 880>
-LayerCount: 5
+Flags: HW
+HStem: 285 70<90 890>
+LayerCount: 6
 Fore
 Refer: 218 8212 N 1 0 0 1 0 0 2
 Layer: 2
@@ -13,5 +13,7 @@ Refer: 218 8212 N 1 0 0 1 0 0 2
 Layer: 3
 Refer: 218 8212 N 1 0 0 1 0 0 2
 Layer: 4
+Refer: 218 8212 N 1 0 0 1 0 0 2
+Layer: 5
 Refer: 218 8212 N 1 0 0 1 0 0 2
 EndChar

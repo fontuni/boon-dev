@@ -3,10 +3,10 @@ StartChar: periodcentered
 Encoding: 183 183 226
 Width: 320
 VWidth: 0
-Flags: W
-HStem: 250 120<111.108 208.892>
-VStem: 100 120<261.108 358.892>
-LayerCount: 5
+Flags: HW
+HStem: 240 140<105.875 214.125>
+VStem: 90 140<255.875 364.125>
+LayerCount: 6
 Fore
 Refer: 103 46 S 1 0 0 1 0 250 2
 Layer: 2
@@ -15,4 +15,6 @@ Layer: 3
 Refer: 103 46 S 1 0 0 1 0 240 2
 Layer: 4
 Refer: 103 46 S 1 0 0 1 0 250 2
+Layer: 5
+Refer: 103 46 S 1 0 0 1 0 230 2
 EndChar

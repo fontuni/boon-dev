@@ -1,11 +1,11 @@
 SplineFontDB: 3.0
-FontName: boon-300
-FullName: Boon Light
+FontName: boon-400
+FullName: Boon Book
 FamilyName: Boon
-Weight: Light
+Weight: 400
 Copyright: Copyright (C) 2013 Sungsit Sawaiwan <http://sungsit.com/> \n\nThis font is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. \n\nThis font is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. \n\nYou should have received a copy of the GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses/>. \n\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.
 UComments: "Created with FontForge 2.0 <http://fontforge.org/>" 
-FontLog: "##  Boon v0.5, 2013-09-17+AAoA  - Redraw all glyphs+AAoA  - Match Latin x-height with Thai +DhoA--height+AAoA  - Reduce Latin cap-height+AAoA  - Add more character spacing+AAoA  - Complete **Basic Latin**, **Latin-1 supplement** & **Thai**+AAoA  - Rename all font files+AAoA      1. Boon-Book +AD0A> **boon-400**+AAoA      2. Boon-Book-Italic +AD0A> **boon-400-oblique**+AAoA      3. Boon-Bold +AD0A> **boon-700**+AAoA      4. Boon-Bold-italic +AD0A> **boon-700-oblique**+AAoA  - Move source files to **boon-dev** repository <https://github.com/sungsit/boon-dev>+AAoACgAA##  Boon v0.4, 2013-07-15+AAoA  - Improve kerning+AAoACgAA##  Boon v0.3.1, 2013-07-01+AAoA  - Corrected font version+AAoACgAA##  Boon v0.3, 2013-07-01+AAoA  - Improved Latin kerning+AAoA  - Added HTML/CSS and project page+AAoACgAA##  Boon v0.2, 2013-06-30+AAoA  - Included Boon-Bold and Boon-Bold-Italic (auto-generated)+AAoA  - Renamed Boon-Italic to Boon-Book-Italic+AAoACgAA##  Boon v0.1, 2013-06-27+AAoA  - Released Boon-Book and Boon-Italic (auto-generated)" 
+FontLog: "##  Boon v0.6, 2013-09-24+AAoA  - Redesigned Long S, Small Ezh & Small German Eszett+AAoA  - Improved some Latin diacritics compositions+AAoA  - Added **boon-300**, **boon-300-oblique**, **boon-500** & **boon-500-oblique**+AAoACgAA##  Boon v0.5, 2013-09-17+AAoA  - Redraw all glyphs+AAoA  - Match Latin x-height with Thai +DhoA--height+AAoA  - Reduce Latin cap-height+AAoA  - Add more character spacing+AAoA  - Complete **Basic Latin**, **Latin-1 supplement** & **Thai**+AAoA  - Rename all font files+AAoA      1. Boon-Book +AD0A> **boon-400**+AAoA      2. Boon-Book-Italic +AD0A> **boon-400-oblique**+AAoA      3. Boon-Bold +AD0A> **boon-700**+AAoA      4. Boon-Bold-italic +AD0A> **boon-700-oblique**+AAoA  - Move source files to **boon-dev** repository <https://github.com/sungsit/boon-dev>+AAoACgAA##  Boon v0.4, 2013-07-15+AAoA  - Improve kerning+AAoACgAA##  Boon v0.3.1, 2013-07-01+AAoA  - Corrected font version+AAoACgAA##  Boon v0.3, 2013-07-01+AAoA  - Improved Latin kerning+AAoA  - Added HTML/CSS and project page+AAoACgAA##  Boon v0.2, 2013-06-30+AAoA  - Included Boon-Bold and Boon-Bold-Italic (auto-generated)+AAoA  - Renamed Boon-Italic to Boon-Book-Italic+AAoACgAA##  Boon v0.1, 2013-06-27+AAoA  - Released Boon-Book and Boon-Italic (auto-generated)" 
 Version: 0.6
 ItalicAngle: 0
 UnderlinePosition: -60
@@ -14,20 +14,21 @@ Ascent: 840
 Descent: 360
 woffMajor: 0
 woffMinor: 6
-LayerCount: 5
+LayerCount: 6
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
-Layer: 2 0 "700"  1
-Layer: 3 0 "400"  1
-Layer: 4 0 "300"  1
+Layer: 2 0 "boon-700"  0
+Layer: 3 0 "boon-400"  0
+Layer: 4 0 "boon-300"  0
+Layer: 5 0 "boon-500"  0
 FSType: 8
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1369324892
-ModificationTime: 1379563859
+ModificationTime: 1379950211
 PfmFamily: 33
-TTFWeight: 300
+TTFWeight: 400
 TTFWidth: 5
 LineGap: 108
 VLineGap: 0
@@ -48,6 +49,7 @@ OS2FamilyClass: 2048
 OS2Vendor: 'PfEd'
 Lookup: 4 1 1 "'liga' Thai Ligatures"  {"'liga' Thai Ligatures"  } ['liga' ('DFLT' <'dflt' > 'latn' <'VIT ' 'dflt' > 'thai' <'dflt' > ) ]
 Lookup: 4 0 1 "'liga' Latin Standard Ligatures"  {"'liga' Latin Standard Ligatures-1"  } ['liga' ('DFLT' <'dflt' > 'armn' <'dflt' > 'deva' <'dflt' > 'lao ' <'dflt' > 'latn' <'VIT ' 'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "Latin Diacritic Substitution"  {"Latin Diacritic Substitution-1" ("narrow" ) } []
 Lookup: 1 0 0 "Thai Tone & Vowel Above-Narrow"  {"Thai Tone & Vowel Above-Narrow" ("narrow" ) } []
 Lookup: 1 0 0 "Thai Ascent Substitute"  {"Ascent Substitute" ("alt" ) } []
 Lookup: 1 0 0 "Thai Descent Shorten"  {"Descent Shorten" ("shorten" ) } []
@@ -57,6 +59,7 @@ Lookup: 1 0 0 "Thai Tone Low-High"  {"Tone Low-High" ("low" ) } []
 Lookup: 1 0 0 "Thai Special Tone for Asc"  {"Thai Special Tone for Asc" ("low" ) } []
 Lookup: 2 0 0 "'ccmp' Thai General Composite"  {"Sara Am Decomposite"  "Tone High-Low"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'dflt' > 'thai' <'dflt' > ) ]
 Lookup: 6 0 0 "'ccmp' Thai Contextual Substitute"  {"Thai Contextual Substitute"  "Thai Asc Consonant Handle"  } ['ccmp' ('DFLT' <'dflt' > 'deva' <'dflt' > 'lao ' <'dflt' > 'latn' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 6 0 0 "'ccmp' Latin Contextual Substitution"  {"'ccmp' Latin Contextual Substitution-1"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'VIT ' 'dflt' > 'thai' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Kerning"  {"Thai Kerning" [140,0,4] "Latin Kerning" [180,0,6] } ['kern' ('DFLT' <'dflt' > 'armn' <'dflt' > 'deva' <'dflt' > 'lao ' <'dflt' > 'latn' <'VIT ' 'dflt' > 'thai' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Thai Mark Positioning"  {"'mark' Thai Mark Positioning"  } ['mark' ('DFLT' <'dflt' > 'latn' <'VIT ' 'dflt' > 'thai' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Diacritic Marks"  {"'mark' Diacritic Marks-1"  } ['mark' ('DFLT' <'dflt' > 'deva' <'dflt' > 'lao ' <'dflt' > 'latn' <'VIT ' 'dflt' > 'thai' <'dflt' > ) ]
@@ -96,11 +99,30 @@ KernClass2: 15 13 "Latin Kerning"
  5 v w y
  9 C G O Q S
  11 m n p r u z
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} -80 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} -60 {} -60 {} 0 {} 0 {} -50 {} 0 {} -40 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} -80 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
-KernClass2: 2 2 "Thai Kerning" 
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} -80 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} -60 {} -60 {} 0 {} 0 {} -50 {} 0 {} -40 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} -80 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} -60 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {}
+KernClass2: 3 3 "Thai Kerning" 
  39 uni0E40 uni0E41 uni0E42 uni0E43 uni0E44
+ 15 uni0E54 uni0E55
  184 uni0E02 uni0E03 uni0E07 uni0E0A uni0E0B uni0E10 uni0E11 uni0E17 uni0E19 uni0E1A uni0E1B uni0E1E uni0E1F uni0E23 uni0E27 uni0E29 uni0E2B uni0E2C uni0E10.descless uni0E0A.alt uni0E0B.alt
- 0 {} 0 {} 0 {} -20 {}
+ 63 uni0E50 uni0E51 uni0E53 uni0E54 uni0E55 uni0E57 uni0E58 uni0E59
+ 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} -60 {}
+ChainSub2: class "'ccmp' Latin Contextual Substitution-1"  3 3 3 1
+  Class: 40 I J L b d f h i j k l t dotlessi uni0237
+  Class: 33 uni0302 tildecomb uni0304 uni030C
+  BClass: 40 I J L b d f h i j k l t dotlessi uni0237
+  BClass: 33 uni0302 tildecomb uni0304 uni030C
+  FClass: 40 I J L b d f h i j k l t dotlessi uni0237
+  FClass: 33 uni0302 tildecomb uni0304 uni030C
+ 1 1 0
+  ClsList: 2
+  BClsList: 1
+  FClsList:
+ 1
+  SeqLookup: 0 "Latin Diacritic Substitution" 
+  ClassNames: "All_Others"  "narrow"  "diac"  
+  BClassNames: "All_Others"  "narrow"  "diac"  
+  FClassNames: "All_Others"  "narrow"  "diac"  
+EndFPST
 ChainSub2: class "Thai Asc Consonant Handle"  4 4 4 2
   Class: 23 uni0E1B uni0E1D uni0E1F
   Class: 231 uni0E31 uni0E34 uni0E35 uni0E36 uni0E37 uni0E47 uni0E48 uni0E49 uni0E4A uni0E4B uni0E4C uni0E49.low uni0E4A.low uni0E34.narrow uni0E35.narrow uni0E36.narrow uni0E37.narrow uni0E31.narrow uni0E47.narrow uni0E49.narrow uni0E4A.narrow
@@ -320,18 +342,18 @@ ChainSub2: class "Thai Contextual Substitute"  10 10 10 10
   FClassNames: "All_Others"  "Asc"  "Desc_G1"  "Desc_G2"  "Vowel_Above"  "Vowel_Below"  "Tone_Low"  "Nikhahit"  "Desc_G3"  "Sara_Aa"  
 EndFPST
 LangName: 1054 "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "+DiQOMg4pDjUOQA4dDkkOMg4WDkkOMw4dDjgOSA4ZDiMOOQ5JDgEOFQ4xDg0ODQ45DkQOFA5JDkMOCg5JDhsOMQ4NDg0OMg4BDg4ODw40DkwOGw5KDjMOEA44DkwOOAAA" 
-LangName: 1033 "" "" "" "" "" "" "" "" "Sungsit Sawaiwan" "Sungsit Sawaiwan" "" "http://sungsit.com/boon/" "http://sungsit.com/" "GNU General Public License Version 3" "http://www.gnu.org/licenses/gpl.html" 
+LangName: 1033 "" "" "" "" "" "" "" "" "Sungsit Sawaiwan" "Sungsit Sawaiwan" "" "http://sungsit.com/boon/" "http://sungsit.com/" "GNU General Public License Version 3" "http://www.gnu.org/licenses/gpl.html" "" "Boon" 
 GaspTable: 1 65535 15 1
-Encoding: UnicodeBmp
+Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 702 18 9
+WinInfo: 26 26 10
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 349525 174762 116508 0 1048576 116508 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "thai_above"  "'mark' Thai Mark Positioning" "hook_above"  "'mark' Diacritic Marks-1" "ring_above"  "'mark' Diacritic Marks-1" "ogonek"  "'mark' Diacritic Marks-1" "cedilla"  "'mark' Diacritic Marks-1" "diac_bottom"  "'mark' Diacritic Marks-1" "diac_top"  "'mark' Diacritic Marks-1" 
+AnchorClass2: "diac_top"  "'mark' Diacritic Marks-1" "thai_above"  "'mark' Thai Mark Positioning" "hook_above"  "'mark' Diacritic Marks-1" "ring_above"  "'mark' Diacritic Marks-1" "ogonek"  "'mark' Diacritic Marks-1" "cedilla"  "'mark' Diacritic Marks-1" "diac_bottom"  "'mark' Diacritic Marks-1" 
 EndSplineFont

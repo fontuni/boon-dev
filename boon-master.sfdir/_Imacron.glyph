@@ -3,9 +3,10 @@ StartChar: Imacron
 Encoding: 298 298 419
 Width: 320
 VWidth: 0
-HStem: 0 21<125 195> 780 20<125 195> 910 50<-30 350>
-VStem: -30 380<910 960> 125 70<0 800>
-LayerCount: 5
+Flags: H
+HStem: 0 21<110 210> 780 20<110 210> 900 60<-40 360>
+VStem: 110 100<0 800>
+LayerCount: 6
 Fore
 Refer: 315 772 N 1 0 0 1 570 0 2
 Refer: 108 73 N 1 0 0 1 0 0 3
@@ -17,5 +18,8 @@ Refer: 315 772 N 1 0 0 1 570 0 2
 Refer: 108 73 N 1 0 0 1 0 0 3
 Layer: 4
 Refer: 315 772 N 1 0 0 1 570 0 2
+Refer: 108 73 N 1 0 0 1 0 0 3
+Layer: 5
+Refer: 884 -1 S 1 0 0 1 0 0 2
 Refer: 108 73 N 1 0 0 1 0 0 3
 EndChar

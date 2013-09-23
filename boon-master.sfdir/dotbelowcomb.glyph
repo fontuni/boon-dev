@@ -3,11 +3,11 @@ StartChar: dotbelowcomb
 Encoding: 803 803 331
 Width: 0
 VWidth: 0
-Flags: W
-HStem: -260 120<-458.892 -361.108>
-VStem: -470 120<-248.892 -151.108>
-AnchorPoint: "diac_bottom" -431.256 -50 mark 0
-LayerCount: 5
+Flags: HW
+HStem: -260 140<-464.125 -355.875>
+VStem: -480 140<-244.125 -135.875>
+AnchorPoint: "diac_bottom" -400 -50 mark 0
+LayerCount: 6
 Fore
 Refer: 318 775 S 1 0 0 1 0 -1180 2
 Layer: 2
@@ -28,4 +28,12 @@ SplineSet
 EndSplineSet
 Layer: 4
 Refer: 318 775 S 1 0 0 1 0 -1180 2
+Layer: 5
+SplineSet
+-320 -180 m 0
+ -320 -225 -355 -260 -400 -260 c 0
+ -445 -260 -480 -225 -480 -180 c 0
+ -480 -135 -445 -100 -400 -100 c 0
+ -355 -100 -320 -135 -320 -180 c 0
+EndSplineSet
 EndChar

@@ -3,10 +3,11 @@ StartChar: Ibreve
 Encoding: 300 300 421
 Width: 320
 VWidth: 0
-HStem: 0 21<125 195> 780 20<125 195> 870 50<73.1265 246.873>
-VStem: -30 60<962.316 1030> 125 70<0 800> 290 60<962.316 1030>
+Flags: H
+HStem: 0 21<110 210> 780 20<110 210> 870 60<75.389 244.611>
+VStem: -40 80<965.687 1030> 110 100<0 800> 280 80<965.687 1030>
 CounterMasks: 1 1c
-LayerCount: 5
+LayerCount: 6
 Fore
 Refer: 317 774 N 1 0 0 1 560 0 2
 Refer: 108 73 N 1 0 0 1 0 0 3
@@ -18,5 +19,8 @@ Refer: 317 774 N 1 0 0 1 560 0 2
 Refer: 108 73 N 1 0 0 1 0 0 3
 Layer: 4
 Refer: 317 774 N 1 0 0 1 560 0 2
+Refer: 108 73 N 1 0 0 1 0 0 3
+Layer: 5
+Refer: 885 -1 S 1 0 0 1 0 0 2
 Refer: 108 73 N 1 0 0 1 0 0 3
 EndChar

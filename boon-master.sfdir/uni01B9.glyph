@@ -3,10 +3,10 @@ StartChar: uni01B9
 Encoding: 441 441 655
 Width: 610
 VWidth: 0
-Flags: W
-HStem: -270 60<274.516 540> 540 60<210 540>
-VStem: 80 70<-86.7034 138.27>
-LayerCount: 5
+Flags: HW
+HStem: -270 90<262.938 550> 520 80<240 550>
+VStem: 70 100<-95.9071 95.666>
+LayerCount: 6
 Fore
 Refer: 358 658 S -1 0 0 1 610 0 2
 Layer: 2
@@ -14,5 +14,7 @@ Refer: 358 658 S -1 0 0 1 610 0 2
 Layer: 3
 Refer: 358 658 S -1 0 0 1 610 0 2
 Layer: 4
+Refer: 358 658 S -1 0 0 1 610 0 2
+Layer: 5
 Refer: 358 658 S -1 0 0 1 610 0 2
 EndChar

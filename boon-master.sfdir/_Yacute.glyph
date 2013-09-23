@@ -3,9 +3,11 @@ StartChar: Yacute
 Encoding: 221 221 290
 Width: 700
 VWidth: 0
-HStem: 0 21<315 385> 780 20<40 131.22 568.781 660> 900 120
-VStem: 307.5 320 315 70<0 320>
-LayerCount: 5
+Flags: H
+HStem: 0 21<300 400> 780 20<30 160.526 539.474 670> 880 160
+VStem: 300 100<0 320> 317.5 300
+AnchorPoint: "diac_top" 350 850 basechar 0
+LayerCount: 6
 Fore
 Refer: 311 769 N 1 0 0 1 797.5 -10 2
 Refer: 127 89 N 1 0 0 1 0 0 3
@@ -17,5 +19,8 @@ Refer: 311 769 N 1 0 0 1 797.5 -10 2
 Refer: 127 89 N 1 0 0 1 0 0 3
 Layer: 4
 Refer: 311 769 N 1 0 0 1 797.5 -10 2
+Refer: 127 89 N 1 0 0 1 0 0 3
+Layer: 5
+Refer: 311 769 N 1 0 0 1 750 0 2
 Refer: 127 89 N 1 0 0 1 0 0 3
 EndChar

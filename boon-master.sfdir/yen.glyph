@@ -3,10 +3,10 @@ StartChar: yen
 Encoding: 165 165 201
 Width: 700
 VWidth: 0
-Flags: W
-HStem: 0 21<315 385> 180 50<70 630> 380 50<70 630> 780 20<40 131.22 568.781 660>
-VStem: 315 70<0 320>
-LayerCount: 5
+Flags: HW
+HStem: 0 21<300 400> 180 60<60 640> 380 60<60 640> 780 20<30 160.526 539.474 670>
+VStem: 300 100<0 320>
+LayerCount: 6
 Fore
 SplineSet
 70 430 m 1
@@ -61,6 +61,20 @@ SplineSet
  630 180 l 5
  70 180 l 1
  70 230 l 1
+EndSplineSet
+Refer: 127 89 N 1 0 0 1 0 0 2
+Layer: 5
+SplineSet
+50 440 m 1
+ 650 440 l 1
+ 650 370 l 1
+ 50 370 l 1
+ 50 440 l 1
+50 240 m 1
+ 650 240 l 1
+ 650 170 l 5
+ 50 170 l 5
+ 50 240 l 1
 EndSplineSet
 Refer: 127 89 N 1 0 0 1 0 0 2
 EndChar

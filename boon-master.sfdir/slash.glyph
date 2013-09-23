@@ -3,10 +3,10 @@ StartChar: slash
 Encoding: 47 47 159
 Width: 480
 VWidth: 0
-Flags: W
-HStem: 880 20G<344.815 410>
-VStem: 70 340
-LayerCount: 5
+Flags: HW
+HStem: 880 20G<334.815 420>
+VStem: 60 360
+LayerCount: 6
 Fore
 SplineSet
 350 900 m 1
@@ -38,5 +38,13 @@ SplineSet
  130 -180 l 5
  70 -180 l 1
  350 900 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+335 900 m 1
+ 425 900 l 5
+ 145 -180 l 5
+ 55 -180 l 1
+ 335 900 l 1
 EndSplineSet
 EndChar

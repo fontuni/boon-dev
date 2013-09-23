@@ -3,10 +3,10 @@ StartChar: afii57929
 Encoding: 700 700 199
 Width: 280
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 460 290
 VStem: 130 80<556.795 610>
-LayerCount: 5
+LayerCount: 6
 Fore
 SplineSet
 130 750 m 0
@@ -46,5 +46,15 @@ SplineSet
  100 503 130 555 130 610 c 1
  91 610 60 641 60 680 c 0
  60 719 91 750 130 750 c 0
+EndSplineSet
+Layer: 5
+SplineSet
+140 810 m 4
+ 194 810 230 768 230 710 c 4
+ 230 632 169 543 110 500 c 5
+ 50 500 l 5
+ 99 543 140 595 140 650 c 5
+ 94 650 60 685 60 730 c 4
+ 60 775 94 810 140 810 c 4
 EndSplineSet
 EndChar

@@ -3,9 +3,9 @@ StartChar: underscore
 Encoding: 95 95 190
 Width: 720
 VWidth: 0
-Flags: W
-HStem: -50 50<100 620>
-LayerCount: 5
+Flags: HW
+HStem: -70 70<90 630>
+LayerCount: 6
 Fore
 SplineSet
 100 0 m 1
@@ -37,5 +37,13 @@ SplineSet
  620 -50 l 5
  100 -50 l 5
  100 0 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+80 0 m 1
+ 640 0 l 1
+ 640 -80 l 5
+ 80 -80 l 5
+ 80 0 l 1
 EndSplineSet
 EndChar

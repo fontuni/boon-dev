@@ -6,8 +6,8 @@ VWidth: 0
 Flags: W
 HStem: 920 120<-458.892 -361.108>
 VStem: -470 120<931.108 1028.89>
-AnchorPoint: "diac_top" -48.6543 850 mark 0
-LayerCount: 5
+AnchorPoint: "diac_top" -400 850 mark 0
+LayerCount: 6
 Fore
 SplineSet
 -350 980 m 4
@@ -39,5 +39,13 @@ SplineSet
  -443 920 -470 947 -470 980 c 4
  -470 1013 -443 1040 -410 1040 c 4
  -377 1040 -350 1013 -350 980 c 4
+EndSplineSet
+Layer: 5
+SplineSet
+-320 980 m 0
+ -320 935 -355 900 -400 900 c 0
+ -445 900 -480 935 -480 980 c 0
+ -480 1025 -445 1060 -400 1060 c 4
+ -355 1060 -320 1025 -320 980 c 0
 EndSplineSet
 EndChar

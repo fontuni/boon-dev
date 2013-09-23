@@ -3,10 +3,10 @@ StartChar: lcommaaccent
 Encoding: 316 316 431
 Width: 350
 VWidth: 0
-Flags: W
-HStem: -220 120<121.108 174.631> -10 60<205.547 250> 880 20<130 200>
-VStem: 110 125<-207.033 -113.04> 130 70<54.2052 900>
-LayerCount: 5
+Flags: HW
+HStem: -370 290 -10 90<215.698 260> 880 20<110 210>
+VStem: 110 100<86.5698 900> 165 80<-273.205 -220>
+LayerCount: 6
 Fore
 Refer: 334 806 N 1 0 0 1 555 0 2
 Refer: 138 108 N 1 0 0 1 0 0 3
@@ -18,5 +18,8 @@ Refer: 334 806 N 1 0 0 1 555 0 2
 Refer: 138 108 N 1 0 0 1 0 0 3
 Layer: 4
 Refer: 334 806 N 1 0 0 1 555 0 2
+Refer: 138 108 N 1 0 0 1 0 0 3
+Layer: 5
+Refer: 334 806 N 1 0 0 1 590 0 2
 Refer: 138 108 N 1 0 0 1 0 0 3
 EndChar

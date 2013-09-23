@@ -3,13 +3,13 @@ StartChar: uni0E4C.low
 Encoding: 63241 63241 17
 Width: 0
 VWidth: 0
-Flags: W
-HStem: 690 35<-278.827 -219.344>
-VStem: -320 36<729.397 789.794> -214 34<730.821 789.239> -184 64<885.537 930>
+Flags: HW
+HStem: 700 40<-275.879 -213.402>
+VStem: -320 40<744.103 805.185> -210 40<743.729 806.426> -184 84<911.671 960>
 AnchorPoint: "thai_above" 187.82 630 mark 0
-LayerCount: 5
+LayerCount: 6
 Fore
-Refer: 46 3660 S 1 0 0 1 -30 -290 2
+Refer: 46 3660 S 1 0 0 1 -30 -280 2
 Layer: 2
 SplineSet
 -195 976 m 1xe0
@@ -26,9 +26,11 @@ SplineSet
  -195 795 -211 810 -230 810 c 0
 EndSplineSet
 Layer: 3
-Refer: 46 3660 S 1 0 0 1 -30 -290 2
+Refer: 46 3660 S 1 0 0 1 -30 -280 2
 Layer: 4
-Refer: 46 3660 S 1 0 0 1 -30 -290 2
+Refer: 46 3660 S 1 0 0 1 -30 -280 2
+Layer: 5
+Refer: 46 3660 S 1 0 0 1 -30 -280 2
 Position2: "Tone Low-Left" dx=-140 dy=0 dh=0 dv=0
 Substitution2: "Tone Low-High" uni0E4C
 EndChar

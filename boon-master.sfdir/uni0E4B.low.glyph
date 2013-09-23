@@ -3,11 +3,11 @@ StartChar: uni0E4B.low
 Encoding: 63240 63240 16
 Width: 0
 VWidth: 0
-Flags: W
-HStem: 805 50<-330 -220 -160 -50>
-VStem: -220 60<700 805 855 960>
+Flags: HW
+HStem: 800 60<-330 -220 -140 -30>
+VStem: -220 80<700 800 860 960>
 AnchorPoint: "thai_above" 187.82 630 mark 0
-LayerCount: 5
+LayerCount: 6
 Fore
 SplineSet
 -220 960 m 1
@@ -71,6 +71,22 @@ SplineSet
  -330 855 l 1
  -220 855 l 1
  -220 960 l 1
+EndSplineSet
+Layer: 5
+SplineSet
+-225 960 m 5
+ -135 960 l 5
+ -135 865 l 5
+ -30 865 l 5
+ -30 795 l 5
+ -135 795 l 5
+ -135 700 l 5
+ -225 700 l 5
+ -225 795 l 5
+ -330 795 l 5
+ -330 865 l 5
+ -225 865 l 5
+ -225 960 l 5
 EndSplineSet
 Position2: "Tone Low-Left" dx=-230 dy=0 dh=0 dv=0
 Substitution2: "Tone Low-High" uni0E4B

@@ -3,10 +3,10 @@ StartChar: florin
 Encoding: 402 402 346
 Width: 420
 VWidth: 0
-Flags: W
-HStem: -290 60<40 131.497> -20 20<170 240> 0 21<170 240> 540 60<50 370> 840 60<278.503 370>
-VStem: 50 320<540 600> 170 70<-191.811 0 0 801.811>
-LayerCount: 5
+Flags: HW
+HStem: -290 90<30 122.568> 520 80<50 160 260 390> 810 90<297.432 390>
+VStem: 160 100<-165.608 520 600 775.608>
+LayerCount: 6
 Fore
 Refer: 852 801 S 1 0 0 1 340 0 2
 Refer: 154 102 N 1 0 0 1 0 0 2
@@ -56,5 +56,8 @@ SplineSet
 EndSplineSet
 Layer: 4
 Refer: 852 801 S 1 0 0 1 340 0 2
+Refer: 154 102 N 1 0 0 1 0 0 2
+Layer: 5
+Refer: 852 801 S 1 0 0 1 330 0 2
 Refer: 154 102 N 1 0 0 1 0 0 2
 EndChar

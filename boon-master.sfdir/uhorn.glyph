@@ -3,16 +3,13 @@ StartChar: uhorn
 Encoding: 432 432 795
 Width: 740
 VWidth: 0
-Flags: W
-HStem: -20 60<245.581 454.419> 560 60<450 494.333> 580 20G<100 170>
-VStem: 100 70<113.199 600> 530 70<113.199 499.683> 620 60<561.901 680>
-AnchorPoint: "hook_above" 649.076 680 basechar 0
-AnchorPoint: "diac_top" 626.324 650 basechar 0
-AnchorPoint: "diac_bottom" 328.744 -50 basechar 0
-AnchorPoint: "cedilla" 367.004 40 basechar 0
-AnchorPoint: "ogonek" 367.004 40 basechar 0
-AnchorPoint: "ring_above" 639.076 680 basechar 0
-LayerCount: 5
+Flags: HW
+HStem: -20 90<254.547 445.453> 540 80<430 478.943> 580 20G<90 190>
+VStem: 90 100<126.967 600> 510 100<126.967 499.637> 610 80<568.513 680>
+AnchorPoint: "diac_top" 350 650 basechar 0
+AnchorPoint: "hook_above" 350 680 basechar 0
+AnchorPoint: "diac_bottom" 349.744 -50 basechar 0
+LayerCount: 6
 Fore
 SplineSet
 620 620 m 2xdc
@@ -101,5 +98,27 @@ SplineSet
  450 620 l 1
  497 620 539 598 567 551 c 1
  606 555 620 584 620 620 c 2xdc
+EndSplineSet
+Layer: 5
+SplineSet
+610 620 m 2xd4
+ 610 680 l 1
+ 700 680 l 1
+ 700 620 l 2xd4
+ 700 540.647 659.464 494.973 604.857 483.116 c 1
+ 614.422 458.502 620 430.748 620 400 c 2
+ 620 200 l 2
+ 620 58 501 -20 350 -20 c 0
+ 199 -20 80 58 80 200 c 2
+ 80 600 l 1
+ 200 600 l 1
+ 200 200 l 2
+ 200 123 274 80 350 80 c 0
+ 426 80 500 123.001 500 200 c 2
+ 500 400 l 2xb8
+ 500 515.015 448.216 530 420 530 c 1
+ 420 620 l 1
+ 463.28 620 517.176 597.844 558.109 555.711 c 1
+ 595.95 560.063 610.054 584.133 610 620 c 2xd4
 EndSplineSet
 EndChar

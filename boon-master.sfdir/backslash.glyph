@@ -3,10 +3,10 @@ StartChar: backslash
 Encoding: 92 92 161
 Width: 480
 VWidth: 0
-Flags: W
-HStem: 880 20<70 135.185>
-VStem: 70 340
-LayerCount: 5
+Flags: HW
+HStem: 880 20<60 145.185>
+VStem: 60 360
+LayerCount: 6
 Fore
 Refer: 159 47 N -1 0 0 1 480 0 2
 Layer: 2
@@ -14,5 +14,7 @@ Refer: 159 47 N -1 0 0 1 480 0 2
 Layer: 3
 Refer: 159 47 N -1 0 0 1 480 0 2
 Layer: 4
+Refer: 159 47 N -1 0 0 1 480 0 2
+Layer: 5
 Refer: 159 47 N -1 0 0 1 480 0 2
 EndChar

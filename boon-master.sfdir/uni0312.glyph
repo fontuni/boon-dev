@@ -3,11 +3,11 @@ StartChar: uni0312
 Encoding: 786 786 326
 Width: 0
 VWidth: 0
-Flags: W
-HStem: 900 120<-399.631 -346.108>
-VStem: -460 125<913.04 1007.03>
-AnchorPoint: "diac_top" -23.6543 850 mark 0
-LayerCount: 5
+Flags: HW
+HStem: 880 290
+VStem: -470 80<1020 1073.2>
+AnchorPoint: "diac_top" -400 850 mark 0
+LayerCount: 6
 Fore
 Refer: 327 787 S -1 0 -0 -1 -780 2030 2
 Layer: 2
@@ -24,4 +24,14 @@ Layer: 3
 Refer: 327 787 S -1 0 -0 -1 -780 2030 2
 Layer: 4
 Refer: 327 787 S -1 0 -0 -1 -780 2030 2
+Layer: 5
+SplineSet
+-400 880 m 0
+ -454 880 -490 922 -490 980 c 0
+ -490 1058 -430 1147 -370 1190 c 1
+ -310 1190 l 1
+ -360 1147 -400 1095 -400 1040 c 1
+ -354 1040 -320 1005 -320 960 c 0
+ -320 915 -354 880 -400 880 c 0
+EndSplineSet
 EndChar

@@ -4,12 +4,12 @@ Encoding: 106 106 114
 Width: 340
 VWidth: 0
 Flags: W
-HStem: -290 60<20 111.497> 580 20<150 220> 720 120<131.108 228.892>
-VStem: 120 120<731.108 828.892> 150 70<-191.811 600>
+HStem: -290 60<20 111.497> 580 20<150 220> 730 120<131.108 228.892>
+VStem: 120 120<741.108 838.892> 150 70<-191.811 600>
 AnchorPoint: "diac_bottom" 358.744 -50 basechar 0
-LayerCount: 5
+LayerCount: 6
 Fore
-Refer: 318 775 N 1 0 0 1 590 -200 2
+Refer: 318 775 S 1 0 0 1 590 -190 2
 Refer: 236 567 N 1 0 0 1 0 0 3
 Layer: 2
 SplineSet
@@ -25,5 +25,8 @@ Refer: 318 775 N 1 0 0 1 590 -200 2
 Refer: 236 567 N 1 0 0 1 0 0 3
 Layer: 4
 Refer: 318 775 N 1 0 0 1 590 -200 2
+Refer: 236 567 N 1 0 0 1 0 0 3
+Layer: 5
+Refer: 318 775 N 1 0 0 1 580 -200 2
 Refer: 236 567 N 1 0 0 1 0 0 3
 EndChar

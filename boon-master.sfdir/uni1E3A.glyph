@@ -3,9 +3,10 @@ StartChar: uni1E3A
 Encoding: 7738 7738 769
 Width: 590
 VWidth: 0
-HStem: -160 50<150 530> 0 60<180 570> 780 20<110 180>
-VStem: 110 70<60 800> 150 380<-160 -110>
-LayerCount: 5
+Flags: H
+HStem: -160 60<140 540> 0 90<200 580> 780 20<100 200>
+VStem: 100 100<90 800>
+LayerCount: 6
 Fore
 Refer: 342 817 N 1 0 0 1 750 0 2
 Refer: 117 76 N 1 0 0 1 0 0 3
@@ -16,6 +17,9 @@ Layer: 3
 Refer: 342 817 N 1 0 0 1 750 0 2
 Refer: 117 76 N 1 0 0 1 0 0 3
 Layer: 4
+Refer: 342 817 N 1 0 0 1 750 0 2
+Refer: 117 76 N 1 0 0 1 0 0 3
+Layer: 5
 Refer: 342 817 N 1 0 0 1 750 0 2
 Refer: 117 76 N 1 0 0 1 0 0 3
 EndChar

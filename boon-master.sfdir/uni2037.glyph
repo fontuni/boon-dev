@@ -3,9 +3,9 @@ StartChar: uni2037
 Encoding: 8247 8247 876
 Width: 690
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 620 220
-LayerCount: 5
+LayerCount: 6
 Fore
 Refer: 873 8244 N -1 0 0 1 690 0 2
 Layer: 2
@@ -13,5 +13,7 @@ Refer: 873 8244 N -1 0 0 1 690 0 2
 Layer: 3
 Refer: 873 8244 N -1 0 0 1 690 0 2
 Layer: 4
+Refer: 873 8244 N -1 0 0 1 690 0 2
+Layer: 5
 Refer: 873 8244 N -1 0 0 1 690 0 2
 EndChar
